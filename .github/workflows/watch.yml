@@ -1,0 +1,36 @@
+name: Fuentes publicas de Supernumerario
+on:
+  schedule:
+    - cron: '37 7,15 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: public-source-watch
+  cancel-in-progress: false
+jobs:
+  watch:
+    # A private repository consumes an account quota. This package refuses
+    # to run there: only a public repo and a standard hosted runner are used.
+    if: ${{ github.event.repository.private == false }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+      - name: Capturar fuentes oficiales publicas
+        id: capture
+        continue-on-error: true
+        run: python3 watch.py
+      - name: Conservar originales y registro, tambien si hay pendientes
+        if: always()
+        run: |
+          git config user.name 'Supernumerario public-source watcher'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Actualizar capturas de fuentes oficiales publicas'
+            git push
+          fi
+      - name: Senalar incidencias
+        if: steps.capture.outcome == 'failure'
+        run: exit 1
