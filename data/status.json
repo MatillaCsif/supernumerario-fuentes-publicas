@@ -1,0 +1,115 @@
+{
+  "checked_at": "2026-10-21T06:01:53.314381+00:00",
+  "changed_public_sources": 127,
+  "errors": [
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/145/105/GESTOR%20ADMINISTRATIVO%20TIPO%201%20ZAMORA.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "[SSL: BAD_RECORD_TYPE] bad record type (_ssl.c:2570)"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/311/412/2_20855_anuncio_para_gestor.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/358/973/Acuerdos%20adoptados%202024.xlsx?blobheader=application%2Fvnd.openxmlformats-officedocument.spreadsheetml.sheet&blobheadername2=Cache-Control&blobheadername3=Expires&blobheadername4=site&blobheadervalue2=no-store%2Cno-cache%2Cmust-revalidate&blobheadervalue3=0&blobheadervalue4=Portal_OficinaVivienda&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/38/38/GESTOR%20ADMINISTRATIVO%20TIPO%202%20INSTITUTO%20DE%20LA%20JUVENTUD%20VALLADOLID%20(4)%20%2030105.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/407/611/GESTOR%20SERVICIO%20ASUNTOS%20ECON%C3%93MICOS%20T1%20SECRETARIA%20GENERAL%20VA.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/437/632/2%2021416%20ANUNCIO%20para%20Gestor.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/464/806/2%20768398%20ANUNCIO%20para%20Gestor.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/496/346/AUXILIAR%20TIPO1%20SECRETARIA%20GENERAL%20VALLADOLID%2061240.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/498/655/SUBDIRECTOR%20CENTRO%20SERVICIOS%20SOCIALES%20Los%20Manzanos%20538321%20VALLADOLID.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/51/331/2%2024604%20ANUNCIO%20para%20Gestor,0.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/514/448/JEFE%20DE%20SECCION%20PALENCIA.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/529/995/2_18803_anuncio_para_gestor.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/551/862/Adjudicaciones%202025%20(3%20de%20marzo).pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/574/389/Comisiones%20de%20servicio%202025.csv?blobheader=text%2Fcsv&blobheadername1=Cache-Control&blobheadername2=Expires&blobheadername3=Site&blobheadervalue1=no-store%2Cno-cache%2Cmust-revalidate&blobheadervalue2=0&blobheadervalue3=JCYL_EconomiaEmpleo&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/580/154/GESTOR%20ADMINISTRATIVO%20TIPO%202%20INSTITUTO%20DE%20LA%20JUVENTUD%20VALLADOLID%20(3)%20%2030115.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/599/332/2_771067_anuncio_para_gestor.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/655/195/2%2019848%20ANUNCIO%20para%20Gestor.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/676/317/ADJUDICACIONES%20COMISIONES%20EN%202025.xlsx?blobheader=application%2Fvnd.openxmlformats-officedocument.spreadsheetml.sheet&blobheadername2=Cache-Control&blobheadername3=Expires&blobheadername4=site&blobheadervalue2=no-store%2Cno-cache%2Cmust-revalidate&blobheadervalue3=0&blobheadervalue4=Portal_Empleo&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/716/807/2%2025466%20ANUNCIO%20para%20Gestor,0.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/736/159/ADJUDICACIONES%202024.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "<urlopen error [Errno 111] Connection refused>"
+    },
+    {
+      "scope": "bocyl",
+      "error": "BOCYL summary unavailable or identity unverified; never infer no edition from an error page"
+    }
+  ],
+  "bocyl_capture_cursor": null,
+  "public_source_urls": 127,
+  "stored_compressed_bytes": 6007053,
+  "capture_is_not_legal_validation": true,
+  "paid_services_used": false
+}
