@@ -21,9 +21,10 @@ class Watch:
         self.size=sum(p.stat().st_size for p in (self.root/'objects').glob('*.gz'));self.errors=[];self.warnings=[];self.changed=0
     def acquire(self,url,role):
         if not allowed(url):raise ValueError('Outside approved public hosts')
-        with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'SUPERNUMERARIO-public-source-monitor/1.0'}),timeout=45) as r:
+        with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'SUPERNUMERARIO-public-source-monitor/1.0','Accept-Encoding':'identity','Cache-Control':'no-cache'}),timeout=45) as r:
             if not allowed(r.url):raise ValueError('Redirect outside public source hosts')
             raw=r.read(50_000_001)
+            if r.headers.get('Content-Length') and len(raw)!=int(r.headers['Content-Length']):raise ValueError('Truncated HTTP response: byte count differs')
         if len(raw)>50_000_000:raise ValueError('Original exceeds 50 MB capture bound')
         if urlsplit(url).path.lower().endswith('.pdf') and (not raw.lstrip().startswith(b'%PDF-') or b'%%EOF' not in raw[-8192:]):raise ValueError('Invalid or truncated PDF response')
         if role=='statistics.export' and not isinstance(json.loads(raw),list):raise ValueError('Invalid statistical export')
