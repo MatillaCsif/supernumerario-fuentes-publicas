@@ -1,14 +1,18 @@
 {
-  "checked_at": "2026-10-21T19:36:27.136473+00:00",
-  "changed_public_sources": 232,
+  "checked_at": "2026-10-21T19:44:40.047753+00:00",
+  "changed_public_sources": 83,
   "status": "PARTIAL_ERROR",
   "errors": [
     {
-      "url": "https://bocyl.jcyl.es/boletines/2026/10/05/pdf/BOCYL-D-05102026-193-14.pdf",
+      "url": "https://bocyl.jcyl.es/boletines/2026/10/13/pdf/BOCYL-D-13102026-198-6.pdf",
       "error": "Invalid or truncated PDF response"
     },
     {
-      "url": "https://bocyl.jcyl.es/boletines/2026/10/13/pdf/BOCYL-D-13102026-198-1.pdf",
+      "url": "https://bocyl.jcyl.es/boletines/2026/10/19/pdf/BOCYL-D-19102026-202-10.pdf",
+      "error": "Invalid or truncated PDF response"
+    },
+    {
+      "url": "https://bocyl.jcyl.es/boletines/2026/10/21/pdf/BOCYL-D-21102026-204-5.pdf",
       "error": "Invalid or truncated PDF response"
     }
   ],
@@ -20,9 +24,9 @@
       "retained_sha256": "2111c973e05c2bf1567c57cfb95c25d3ea48af90c0607f5876a85753a8ac23b0"
     }
   ],
-  "bocyl_capture_cursor": "2026-10-02",
-  "public_source_urls": 358,
-  "stored_compressed_bytes": 84623525,
+  "bocyl_capture_cursor": "2026-10-09",
+  "public_source_urls": 360,
+  "stored_compressed_bytes": 117994851,
   "capture_is_not_legal_validation": true,
   "paid_services_used": false
 }
