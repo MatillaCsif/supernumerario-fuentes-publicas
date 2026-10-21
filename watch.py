@@ -4,7 +4,7 @@ from pathlib import Path
 from datetime import datetime,timezone
 from html.parser import HTMLParser
 from urllib.parse import urlsplit,urljoin
-from portable_bocyl import parse_summary,selected
+from portable_bocyl import parse_summary,selected,latest_summary_url
 
 HOSTS={'empleopublico.jcyl.es','www.empleopublico.jcyl.es','bocyl.jcyl.es','analisis.datosabiertos.jcyl.es'}
 def now():return datetime.now(timezone.utc).isoformat()
@@ -18,7 +18,7 @@ class Links(HTMLParser):
 class Watch:
     def __init__(self,root):
         self.root=Path(root);p=self.root/'catalog.json';self.catalog=json.loads(p.read_bytes()) if p.exists() else {'schema':1,'sources':{},'versions':{},'bocyl_days':{},'bocyl_cursor':None}
-        self.size=sum(p.stat().st_size for p in (self.root/'objects').glob('*.gz'));self.errors=[];self.changed=0
+        self.size=sum(p.stat().st_size for p in (self.root/'objects').glob('*.gz'));self.errors=[];self.warnings=[];self.changed=0
     def acquire(self,url,role):
         if not allowed(url):raise ValueError('Outside approved public hosts')
         with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'SUPERNUMERARIO-public-source-monitor/1.0'}),timeout=45) as r:
@@ -51,10 +51,14 @@ class Watch:
                         if not allowed(target):continue
                         if re.search(r'\.(?:pdf|xlsx?|docx?|csv)(?:\?|$)',target,re.I):queue.append({'url':target,'role':'commission.document'})
                         elif any(s in target for s in ('PlantillaSimpleDetalle','SEDescargarTablaCombinada')):queue.append({'url':target,'role':'commission.page'})
-            except Exception as exc:self.errors.append({'url':url,'role':item['role'],'error':str(exc)})
+            except Exception as exc:
+                previous=self.catalog['sources'].get(url)
+                if isinstance(exc,urllib.error.HTTPError) and exc.code==404 and previous and (self.root/previous['object']).is_file():
+                    self.warnings.append({'url':url,'role':item['role'],'error':'HTTP 404; retained original is available, not a current successful fetch','retained_sha256':previous['sha256']})
+                else:self.errors.append({'url':url,'role':item['role'],'error':str(exc)})
         if queue:self.errors.append({'scope':'commission','error':'Public-source discovery bound reached; pending URLs retained for review'})
     def bocyl(self):
-        cursor=self.catalog['bocyl_cursor'];url='https://bocyl.jcyl.es/boletin.do';chain=[];seen=set();reached=False
+        cursor=self.catalog['bocyl_cursor'];url=latest_summary_url(self.acquire('https://bocyl.jcyl.es/','bocyl.portal'));chain=[];seen=set();reached=False
         while url and len(chain)<62:
             if url in seen:raise ValueError('Archive navigation loop')
             seen.add(url);raw=self.acquire(url,'bocyl.summary');p=parse_summary(raw,url)
@@ -79,7 +83,7 @@ class Watch:
                 self.catalog['bocyl_cursor']=p.day
     def finish(self):
         stamp=now();write(self.root/'catalog.json',self.catalog)
-        report={'checked_at':stamp,'changed_public_sources':self.changed,'errors':self.errors,'bocyl_capture_cursor':self.catalog['bocyl_cursor'],
+        report={'checked_at':stamp,'changed_public_sources':self.changed,'status':'PARTIAL_ERROR' if self.errors else ('COMPLETE_WITH_WARNINGS' if self.warnings else 'COMPLETE'),'errors':self.errors,'warnings':self.warnings,'bocyl_capture_cursor':self.catalog['bocyl_cursor'],
             'public_source_urls':len(self.catalog['sources']),'stored_compressed_bytes':self.size,'capture_is_not_legal_validation':True,'paid_services_used':False}
         write(self.root/'status.json',report);write(self.root/'reports'/(stamp[:10]+'.json'),report)
         print(json.dumps({k:v for k,v in report.items() if k!='errors'}));return 1 if self.errors else 0

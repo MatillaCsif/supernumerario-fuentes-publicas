@@ -1,6 +1,6 @@
 # Monitor remoto de fuentes públicas de Supernumerario
 
-Preparado para un **repositorio público nuevo**, con autorización del titular. No está publicado ni activado.
+Repositorio público autorizado por su titular. Monitor programado dos veces al día; el estado efectivo y las incidencias de cada ejecución constan en `data/status.json`.
 
 - Solo consulta fuentes oficiales públicas de JCyL: comisiones, archivo BOCYL y estadísticas.
 - Conserva copias comprimidas por SHA-256 y versiones con fecha de captura; pueden incluir información ya publicada en documentos oficiales. No lee Gmail ni archivos privados.
@@ -11,4 +11,4 @@ Preparado para un **repositorio público nuevo**, con autorización del titular.
 
 La ejecución remota permite capturar mientras el ordenador está apagado. La programación gratuita de GitHub puede sufrir retrasos; el registro de continuidad permite recuperar ediciones permanentes del BOCYL.
 
-Para activar: crear el repositorio público dedicado y publicar únicamente estos archivos, nunca la carpeta del proyecto local. Antes debe estar acordado el repositorio de destino y habilitada la sincronización de sus capturas con el Atlas.
+El Atlas local importa las capturas dentro de su ciclo A0 y vuelve a comprobar las identidades y las huellas antes de mostrarlas. Una captura remota no acredita ocupación actual ni el efecto jurídico de una resolución. Un enlace histórico que devuelve 404 se señala como aviso si su original ya está conservado; si falta el original, sigue siendo un error.

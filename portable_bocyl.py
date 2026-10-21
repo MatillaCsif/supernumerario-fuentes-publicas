@@ -34,6 +34,19 @@ class Summary(HTMLParser):
         elif tag=='h5':self.issuer=value
         elif tag=='p':self.title=value
 
+def latest_summary_url(raw):
+    # The bare boletin.do endpoint is an error page. The official portal's
+    # accesskey=u link identifies the last published edition, also on holidays.
+    class Latest(HTMLParser):
+        def __init__(self):super().__init__();self.urls=[]
+        def handle_starttag(self,tag,attrs):
+            a=dict(attrs)
+            if tag=='a' and a.get('accesskey')=='u':self.urls.append(urljoin(BASE,a.get('href','')))
+    p=Latest();p.feed(raw.decode('utf-8-sig'))
+    urls=[u for u in p.urls if urlsplit(u).hostname=='bocyl.jcyl.es' and urlsplit(u).scheme=='https' and urlsplit(u).path=='/boletin.do' and parse_qs(urlsplit(u).query).get('fechaBoletin')]
+    if len(set(urls))!=1:raise ValueError('Official portal lacks an unambiguous latest-edition link')
+    return urls[0]
+
 def parse_summary(raw,url):
     p=Summary();p.feed(raw.decode('utf-8-sig'))
     if not p.day or 'sumario bocyl' not in fold(p.heading):raise ValueError('BOCYL summary unavailable or identity unverified; never infer no edition from an error page')

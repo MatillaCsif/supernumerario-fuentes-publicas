@@ -236,6 +236,10 @@
     "role": "commission.document"
   },
   {
+    "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/177/267/ano_2026_act.xlsx?blobheader=application%2Fvnd.openxmlformats-officedocument.spreadsheetml.sheet&blobheadername2=Cache-Control&blobheadername3=Expires&blobheadername4=site&blobheadervalue2=no-store%2Cno-cache%2Cmust-revalidate&blobheadervalue3=0&blobheadervalue4=JCYL_Educacion&blobnocache=true",
+    "role": "commission.document"
+  },
+  {
     "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/181/777/adjudicaciones_2026_13_de_octubre_metadata.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
     "role": "commission.document"
   },

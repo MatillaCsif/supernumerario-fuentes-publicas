@@ -39,6 +39,8 @@ def exclusion_reason(title, organism='', official_gazette=False):
     # Common competitions can admit statutory staff to AG posts. That explicit
     # AG destination is retained; SACYL category recruitment is excluded.
     ag_destination = bool(re.search(r'administracion general de (?:la comunidad|castilla y leon)', text))
+    if not ag_destination and re.search(r'(?:subdirector|director|gerente).{0,120}(?:asistencia especializada|complejo asistencial|hospital universitario)',text):
+        return 'SACYL_STATUTORY'
     if not ag_destination and re.search(r'\bsacyl\b|servicio de salud de castilla y leon|'
                                        r'gerencia regional de salud|personal estatutario', text + ' ' + issuer):
         return 'SACYL_STATUTORY'
