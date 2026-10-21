@@ -1,5 +1,5 @@
 """Public-source byte capture on standard GitHub runners. No keys or AI APIs."""
-import json,hashlib,gzip,re,urllib.request,urllib.error
+import json,hashlib,gzip,re,time,urllib.request,urllib.error
 from pathlib import Path
 from datetime import datetime,timezone
 from html.parser import HTMLParser
@@ -20,6 +20,14 @@ class Watch:
         self.root=Path(root);p=self.root/'catalog.json';self.catalog=json.loads(p.read_bytes()) if p.exists() else {'schema':1,'sources':{},'versions':{},'bocyl_days':{},'bocyl_cursor':None}
         self.size=sum(p.stat().st_size for p in (self.root/'objects').glob('*.gz'));self.errors=[];self.warnings=[];self.changed=0
     def acquire(self,url,role):
+        for attempt in range(3):
+            try:return self.acquire_once(url,role)
+            except urllib.error.HTTPError as exc:
+                if exc.code<500 or attempt==2:raise
+            except Exception:
+                if attempt==2:raise
+            time.sleep(.25*(attempt+1))
+    def acquire_once(self,url,role):
         if not allowed(url):raise ValueError('Outside approved public hosts')
         with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'SUPERNUMERARIO-public-source-monitor/1.0','Accept-Encoding':'identity','Cache-Control':'no-cache'}),timeout=45) as r:
             if not allowed(r.url):raise ValueError('Redirect outside public source hosts')

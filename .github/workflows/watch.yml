@@ -1,5 +1,11 @@
 name: Fuentes publicas de Supernumerario
 on:
+  push:
+    paths:
+      - 'watch.py'
+      - 'portable_bocyl.py'
+      - 'scope_policy.py'
+      - '.github/workflows/watch.yml'
   schedule:
     - cron: '37 7,15 * * *'
   workflow_dispatch:
