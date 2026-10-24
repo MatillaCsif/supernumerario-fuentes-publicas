@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-10-24T12:18:39.177866+00:00",
+  "changed_public_sources": 42,
+  "status": "COMPLETE_WITH_WARNINGS",
+  "errors": [],
+  "warnings": [
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/173/987/A%C3%91O%202026_ACT.xlsx?blobheader=application%2Fvnd.openxmlformats-officedocument.spreadsheetml.sheet&blobheadername2=Cache-Control&blobheadername3=Expires&blobheadername4=site&blobheadervalue2=no-store%2Cno-cache%2Cmust-revalidate&blobheadervalue3=0&blobheadervalue4=JCYL_Educacion&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "2111c973e05c2bf1567c57cfb95c25d3ea48af90c0607f5876a85753a8ac23b0"
+    }
+  ],
+  "bocyl_capture_cursor": "2026-10-23",
+  "public_source_urls": 405,
+  "stored_compressed_bytes": 157077545,
+  "capture_is_not_legal_validation": true,
+  "paid_services_used": false
+}
