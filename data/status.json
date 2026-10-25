@@ -1,14 +1,8 @@
 {
-  "checked_at": "2026-10-25T22:53:08.488839+00:00",
+  "checked_at": "2026-10-25T22:58:57.067770+00:00",
   "changed_public_sources": 31,
-  "status": "PARTIAL_ERROR",
-  "errors": [
-    {
-      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/891/642/2%20768409%20ANUNCIO%20para%20Gestor,0.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
-      "role": "commission.document",
-      "error": "<urlopen error timed out>"
-    }
-  ],
+  "status": "COMPLETE_WITH_WARNINGS",
+  "errors": [],
   "warnings": [
     {
       "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/173/987/A%C3%91O%202026_ACT.xlsx?blobheader=application%2Fvnd.openxmlformats-officedocument.spreadsheetml.sheet&blobheadername2=Cache-Control&blobheadername3=Expires&blobheadername4=site&blobheadervalue2=no-store%2Cno-cache%2Cmust-revalidate&blobheadervalue3=0&blobheadervalue4=JCYL_Educacion&blobnocache=true",
@@ -19,7 +13,7 @@
   ],
   "bocyl_capture_cursor": "2026-10-23",
   "public_source_urls": 409,
-  "stored_compressed_bytes": 159876824,
+  "stored_compressed_bytes": 160005048,
   "capture_is_not_legal_validation": true,
   "paid_services_used": false
 }
