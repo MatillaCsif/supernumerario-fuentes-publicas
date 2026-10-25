@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - 'watch.py'
+      - 'sources.json'
       - 'portable_bocyl.py'
       - 'scope_policy.py'
       - '.github/workflows/watch.yml'
