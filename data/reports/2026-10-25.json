@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-10-25T12:48:28.420934+00:00",
-  "changed_public_sources": 44,
+  "checked_at": "2026-10-25T18:34:31.669319+00:00",
+  "changed_public_sources": 29,
   "status": "COMPLETE_WITH_WARNINGS",
   "errors": [],
   "warnings": [
@@ -13,7 +13,7 @@
   ],
   "bocyl_capture_cursor": "2026-10-23",
   "public_source_urls": 405,
-  "stored_compressed_bytes": 159651776,
+  "stored_compressed_bytes": 159748609,
   "capture_is_not_legal_validation": true,
   "paid_services_used": false
 }
