@@ -19,6 +19,7 @@ class Watch:
     def __init__(self,root):
         self.root=Path(root);p=self.root/'catalog.json';self.catalog=json.loads(p.read_bytes()) if p.exists() else {'schema':1,'sources':{},'versions':{},'bocyl_days':{},'bocyl_cursor':None}
         self.size=sum(p.stat().st_size for p in (self.root/'objects').glob('*.gz'));self.errors=[];self.warnings=[];self.changed=0
+        self.failures=self.catalog.setdefault('source_failures',{})
     def acquire(self,url,role):
         for attempt in range(3):
             try:return self.acquire_once(url,role)
@@ -44,6 +45,7 @@ class Watch:
         if previous.get('sha256')!=digest:
             entry={'url':url,'role':role,'sha256':digest,'object':'objects/'+digest+'.gz','captured_at':now(),'size_bytes':len(raw)}
             self.catalog['sources'][url]=entry;self.catalog['versions'].setdefault(url,[]).append(entry);self.changed+=1
+        self.failures.pop(url,None)
         return raw
     def commissions(self,seeds):
         queue=list(seeds);seen=set()
@@ -62,8 +64,18 @@ class Watch:
                         elif any(s in target for s in ('PlantillaSimpleDetalle','SEDescargarTablaCombinada')):queue.append({'url':target,'role':'commission.page'})
             except Exception as exc:
                 previous=self.catalog['sources'].get(url)
-                if isinstance(exc,urllib.error.HTTPError) and exc.code==404 and previous and (self.root/previous['object']).is_file():
+                retained=previous and (self.root/previous['object']).is_file()
+                if retained:
+                    try:
+                        with gzip.open(self.root/previous['object'],'rb') as stream:cached=stream.read(50_000_001)
+                        retained=len(cached)<=50_000_000 and hashlib.sha256(cached).hexdigest()==previous['sha256'] and len(cached)==previous['size_bytes']
+                    except (OSError,EOFError):retained=False
+                timeout=isinstance(exc,TimeoutError) or isinstance(exc,urllib.error.URLError) and not isinstance(exc,urllib.error.HTTPError) and 'timed out' in str(exc).lower()
+                if timeout:self.failures[url]=self.failures.get(url,0)+1
+                if isinstance(exc,urllib.error.HTTPError) and exc.code==404 and retained:
                     self.warnings.append({'url':url,'role':item['role'],'error':'HTTP 404; retained original is available, not a current successful fetch','retained_sha256':previous['sha256']})
+                elif timeout and retained and self.failures[url]<3:
+                    self.warnings.append({'url':url,'role':item['role'],'error':'Download timed out after retries; verified historical original retained. Current bytes were not checked.','retained_sha256':previous['sha256'],'last_successful_capture_at':previous['captured_at'],'current_fetch_verified':False,'consecutive_failed_runs':self.failures[url]})
                 else:self.errors.append({'url':url,'role':item['role'],'error':str(exc)})
         if queue:self.errors.append({'scope':'commission','error':'Public-source discovery bound reached; pending URLs retained for review'})
     def bocyl(self):
