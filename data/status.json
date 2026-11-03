@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-02T17:27:36.972800+00:00",
-  "changed_public_sources": 29,
+  "checked_at": "2026-11-03T15:30:21.506518+00:00",
+  "changed_public_sources": 47,
   "status": "COMPLETE_WITH_WARNINGS",
   "errors": [],
   "warnings": [
@@ -29,9 +29,9 @@
       "retained_sha256": "00e3a62535ace62150211ccecb23f67f091342dccea3be29f0bebae82cfceb9e"
     }
   ],
-  "bocyl_capture_cursor": "2026-10-30",
-  "public_source_urls": 517,
-  "stored_compressed_bytes": 214176493,
+  "bocyl_capture_cursor": "2026-11-03",
+  "public_source_urls": 527,
+  "stored_compressed_bytes": 217972319,
   "capture_is_not_legal_validation": true,
   "paid_services_used": false
 }
