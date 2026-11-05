@@ -12,10 +12,10 @@
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-servicio-consejeria.html": {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-servicio-consejeria.html",
       "role": "commission.page",
-      "sha256": "5f670bb756fcec53160800928a2882b02e0cebbe2b08ccd960318d92b455eea7",
-      "object": "objects/5f670bb756fcec53160800928a2882b02e0cebbe2b08ccd960318d92b455eea7.gz",
-      "captured_at": "2026-11-04T15:44:09.837940+00:00",
-      "size_bytes": 79726
+      "sha256": "f0fad974d10839eea5cee31da5e3f7da2cac35947c72c1f8cf2a54724ba67499",
+      "object": "objects/f0fad974d10839eea5cee31da5e3f7da2cac35947c72c1f8cf2a54724ba67499.gz",
+      "captured_at": "2026-11-05T15:47:41.991882+00:00",
+      "size_bytes": 81173
     },
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-servicio-gerencia-regional.html": {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-servicio-gerencia-regional.html",
@@ -52,34 +52,34 @@
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-agricultura-ganaderia-desarrollo.html": {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-agricultura-ganaderia-desarrollo.html",
       "role": "commission.page",
-      "sha256": "02f52f33497db4c8327dddb1dbe4c98ebd005f114e0dc43ca5931ce65e58999a",
-      "object": "objects/02f52f33497db4c8327dddb1dbe4c98ebd005f114e0dc43ca5931ce65e58999a.gz",
-      "captured_at": "2026-11-04T15:44:12.797797+00:00",
-      "size_bytes": 65634
+      "sha256": "4294c4cc73fd73e800f9135763e19f97b29d8b3ffbb05411d8c5f3ac64b1b72a",
+      "object": "objects/4294c4cc73fd73e800f9135763e19f97b29d8b3ffbb05411d8c5f3ac64b1b72a.gz",
+      "captured_at": "2026-11-05T15:47:44.240330+00:00",
+      "size_bytes": 69321
     },
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-cultura-turismo-deporte.html": {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-cultura-turismo-deporte.html",
       "role": "commission.page",
-      "sha256": "295fa3af325fa8da77d8ebca92dc53e0cf3685e0d6fe2cc0e0b2f4a29e87dc13",
-      "object": "objects/295fa3af325fa8da77d8ebca92dc53e0cf3685e0d6fe2cc0e0b2f4a29e87dc13.gz",
-      "captured_at": "2026-11-04T15:44:13.345188+00:00",
-      "size_bytes": 110932
+      "sha256": "e9d16f7a5ddd73e7a8f42049a1a74d78e1b3b331f34b0473732e9de1363d6959",
+      "object": "objects/e9d16f7a5ddd73e7a8f42049a1a74d78e1b3b331f34b0473732e9de1363d6959.gz",
+      "captured_at": "2026-11-05T15:47:44.768971+00:00",
+      "size_bytes": 111480
     },
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-economia-hacienda.html": {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-economia-hacienda.html",
       "role": "commission.page",
-      "sha256": "cff9951666fdbc795e5f55079b159887dbb5f78b0915205c747bfb027f595384",
-      "object": "objects/cff9951666fdbc795e5f55079b159887dbb5f78b0915205c747bfb027f595384.gz",
-      "captured_at": "2026-11-04T15:44:13.990509+00:00",
-      "size_bytes": 76279
+      "sha256": "dcca43cd8337203d426b6fd003a20f5f7ef2c2f8c5336e20c18bb3b581537633",
+      "object": "objects/dcca43cd8337203d426b6fd003a20f5f7ef2c2f8c5336e20c18bb3b581537633.gz",
+      "captured_at": "2026-11-05T15:47:45.276845+00:00",
+      "size_bytes": 80187
     },
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-educacion.html": {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-educacion.html",
       "role": "commission.page",
-      "sha256": "00d789484949689e9bcd11da85534947a46fb139db4269059c020ac5939dee74",
-      "object": "objects/00d789484949689e9bcd11da85534947a46fb139db4269059c020ac5939dee74.gz",
-      "captured_at": "2026-11-04T15:44:14.430279+00:00",
-      "size_bytes": 50096
+      "sha256": "a39ac95b8cfe545c9d0042b428b90ed957246d2686a37454b05fa9c4d2b953f5",
+      "object": "objects/a39ac95b8cfe545c9d0042b428b90ed957246d2686a37454b05fa9c4d2b953f5.gz",
+      "captured_at": "2026-11-05T15:47:45.694099+00:00",
+      "size_bytes": 53254
     },
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-familia-igualdad-oportunidades.html": {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-familia-igualdad-oportunidades.html",
@@ -116,10 +116,10 @@
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-presidencia.html": {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-presidencia.html",
       "role": "commission.page",
-      "sha256": "0ea994b34bb03d3993d8ff45c7b0116aa1fc2df37f8e6caaff8d6acf855b36e2",
-      "object": "objects/0ea994b34bb03d3993d8ff45c7b0116aa1fc2df37f8e6caaff8d6acf855b36e2.gz",
-      "captured_at": "2026-11-04T15:44:16.672102+00:00",
-      "size_bytes": 48746
+      "sha256": "2e67d09941152e4d2d1523449142f6315801e94fc6689aea758ff482a206f591",
+      "object": "objects/2e67d09941152e4d2d1523449142f6315801e94fc6689aea758ff482a206f591.gz",
+      "captured_at": "2026-11-05T15:47:47.975864+00:00",
+      "size_bytes": 49784
     },
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-sanidad.html": {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-sanidad.html",
@@ -220,177 +220,177 @@
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285220239075/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285220239075/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "d4119938de273d3fc7e8822a4dc4ddc506b6ed13284a5ed34dd599c5a3a76082",
-      "object": "objects/d4119938de273d3fc7e8822a4dc4ddc506b6ed13284a5ed34dd599c5a3a76082.gz",
-      "captured_at": "2026-11-04T15:44:21.114242+00:00",
+      "sha256": "b7431befd5704b7a2fb9740fe3e391d9aec1659df0d5026d44cb6da6eeaa3364",
+      "object": "objects/b7431befd5704b7a2fb9740fe3e391d9aec1659df0d5026d44cb6da6eeaa3364.gz",
+      "captured_at": "2026-11-05T15:47:52.377123+00:00",
       "size_bytes": 6397
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285237728970/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200365845&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285237728970/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200365845&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "f60aff55879eb153e1fc945f224c5625a17bf64c6075b04012a6dfdd4ea80bf3",
-      "object": "objects/f60aff55879eb153e1fc945f224c5625a17bf64c6075b04012a6dfdd4ea80bf3.gz",
-      "captured_at": "2026-11-04T15:44:21.498844+00:00",
+      "sha256": "691eec61a325ad5923c06225bf14687e8bdd901ec2a679eb124af253c342ce32",
+      "object": "objects/691eec61a325ad5923c06225bf14687e8bdd901ec2a679eb124af253c342ce32.gz",
+      "captured_at": "2026-11-05T15:47:52.745808+00:00",
       "size_bytes": 8091
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285253533815/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285253533815/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "1e8939eb03fd6eff15b09fe40538d89b42b46d1d2567aa6d611565ebb49fdaad",
-      "object": "objects/1e8939eb03fd6eff15b09fe40538d89b42b46d1d2567aa6d611565ebb49fdaad.gz",
-      "captured_at": "2026-11-04T15:44:21.829354+00:00",
-      "size_bytes": 4141
+      "sha256": "10a0f46c73fb1403aae507460661c34fff1900eba8ab0a1d033718b40969b458",
+      "object": "objects/10a0f46c73fb1403aae507460661c34fff1900eba8ab0a1d033718b40969b458.gz",
+      "captured_at": "2026-11-05T15:47:53.061877+00:00",
+      "size_bytes": 4142
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285361211737/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285361211737/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "f9d15edff81c9f1c4069fd769a01080b9c86fa76340d5e35aa04af2f60416214",
-      "object": "objects/f9d15edff81c9f1c4069fd769a01080b9c86fa76340d5e35aa04af2f60416214.gz",
-      "captured_at": "2026-11-04T15:44:22.163006+00:00",
-      "size_bytes": 3483
+      "sha256": "37fead9d9e8c7991143356c3568cf515a92bdf2d9d0c01a81f56ec6e31b5dba9",
+      "object": "objects/37fead9d9e8c7991143356c3568cf515a92bdf2d9d0c01a81f56ec6e31b5dba9.gz",
+      "captured_at": "2026-11-05T15:47:53.375863+00:00",
+      "size_bytes": 3484
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285361216030/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285361216030/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "f9dadce4a1bcad807e78f5f8dc82dad4ef05909b4635229a3af9a943fc083b2b",
-      "object": "objects/f9dadce4a1bcad807e78f5f8dc82dad4ef05909b4635229a3af9a943fc083b2b.gz",
-      "captured_at": "2026-11-04T15:44:22.489188+00:00",
+      "sha256": "d4f90739426c67354fef4aaf0adfc5ee9beb23dc1a26d16b19b28297179bddac",
+      "object": "objects/d4f90739426c67354fef4aaf0adfc5ee9beb23dc1a26d16b19b28297179bddac.gz",
+      "captured_at": "2026-11-05T15:47:53.741869+00:00",
       "size_bytes": 4079
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285361220360/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285361220360/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "fdd057ad17c5f80381f4704fdd356e343911147b825b171daeb738dde6de3b50",
-      "object": "objects/fdd057ad17c5f80381f4704fdd356e343911147b825b171daeb738dde6de3b50.gz",
-      "captured_at": "2026-11-04T15:44:22.855779+00:00",
+      "sha256": "aac5cb5ce79b7606dab31e04c77a78dcda11a4d23a19d7796422fca9d34d33a5",
+      "object": "objects/aac5cb5ce79b7606dab31e04c77a78dcda11a4d23a19d7796422fca9d34d33a5.gz",
+      "captured_at": "2026-11-05T15:47:54.091447+00:00",
       "size_bytes": 6105
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285375938380/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285375938380/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "4b8499f36a47444225c60d72927b409a445a765d139d7048858c9d1df4e10292",
-      "object": "objects/4b8499f36a47444225c60d72927b409a445a765d139d7048858c9d1df4e10292.gz",
-      "captured_at": "2026-11-04T15:44:23.226356+00:00",
+      "sha256": "e80f6d098435ac057b17f49379895e2851b513f6924451ba947f00f75644f8a5",
+      "object": "objects/e80f6d098435ac057b17f49379895e2851b513f6924451ba947f00f75644f8a5.gz",
+      "captured_at": "2026-11-05T15:47:54.413715+00:00",
       "size_bytes": 4472
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285394238438/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285394238438/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "4a88dc13d620527b5fffdb9e9fadf28089b92026cb2515657c085aa22aae89b0",
-      "object": "objects/4a88dc13d620527b5fffdb9e9fadf28089b92026cb2515657c085aa22aae89b0.gz",
-      "captured_at": "2026-11-04T15:44:23.576467+00:00",
+      "sha256": "c3d883c6a06abed71fbad967be8efe301f4088dbe2a9e128a84d1f00f0e677eb",
+      "object": "objects/c3d883c6a06abed71fbad967be8efe301f4088dbe2a9e128a84d1f00f0e677eb.gz",
+      "captured_at": "2026-11-05T15:47:54.731955+00:00",
       "size_bytes": 4183
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285474722427/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285474722427/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "3857cb49505eb442d3d0bd97a6e2dd05915ce6c13df78488838766d9d7cace8d",
-      "object": "objects/3857cb49505eb442d3d0bd97a6e2dd05915ce6c13df78488838766d9d7cace8d.gz",
-      "captured_at": "2026-11-04T15:44:23.912594+00:00",
+      "sha256": "fe2b45c35aff99cd37d2b77581066e729ff7724f793a3bde1d9cc5741762b833",
+      "object": "objects/fe2b45c35aff99cd37d2b77581066e729ff7724f793a3bde1d9cc5741762b833.gz",
+      "captured_at": "2026-11-05T15:47:55.052141+00:00",
       "size_bytes": 4072
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285480287622/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285480287622/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "46a86df4665cdd0871fb666e65a8a47dcb51726d1f67aef21e6f6bdfb6b9a7da",
-      "object": "objects/46a86df4665cdd0871fb666e65a8a47dcb51726d1f67aef21e6f6bdfb6b9a7da.gz",
-      "captured_at": "2026-11-04T15:44:24.256493+00:00",
+      "sha256": "534f3da5bed0d05a5aebc9794e7151e61da3ba3bb12896f03651cfbee799ba5b",
+      "object": "objects/534f3da5bed0d05a5aebc9794e7151e61da3ba3bb12896f03651cfbee799ba5b.gz",
+      "captured_at": "2026-11-05T15:47:55.367358+00:00",
       "size_bytes": 4753
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285480383625/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285480383625/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "aaa700d08432d3ac5a8c8b8b6f7c4e1fc655e9d4e088456849405b58100e2d8e",
-      "object": "objects/aaa700d08432d3ac5a8c8b8b6f7c4e1fc655e9d4e088456849405b58100e2d8e.gz",
-      "captured_at": "2026-11-04T15:44:24.591456+00:00",
+      "sha256": "7eed41bf82df234295a8e23f534123a0ce10c4e0a617e338958a79de3701c06f",
+      "object": "objects/7eed41bf82df234295a8e23f534123a0ce10c4e0a617e338958a79de3701c06f.gz",
+      "captured_at": "2026-11-05T15:47:55.680747+00:00",
       "size_bytes": 3653
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285482357360/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200365845&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285482357360/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200365845&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "7a78055974fcbb6dcab85e8c45b1e5cc25310eb482b9156bf699723424831fa7",
-      "object": "objects/7a78055974fcbb6dcab85e8c45b1e5cc25310eb482b9156bf699723424831fa7.gz",
-      "captured_at": "2026-11-04T15:44:24.938121+00:00",
+      "sha256": "0cbebe8fb7ec5d82dfe6d8940c905750dfbab940b30f737fd9c7e8ec486bc822",
+      "object": "objects/0cbebe8fb7ec5d82dfe6d8940c905750dfbab940b30f737fd9c7e8ec486bc822.gz",
+      "captured_at": "2026-11-05T15:47:56.001305+00:00",
       "size_bytes": 3812
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285513023310/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285513023310/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "57fdc9bc3447d9432830929717a6de37962954f54843125cea007d184e1385bc",
-      "object": "objects/57fdc9bc3447d9432830929717a6de37962954f54843125cea007d184e1385bc.gz",
-      "captured_at": "2026-11-04T15:44:25.301312+00:00",
+      "sha256": "bf0784e97043b53fb2af078cb5ae3e97368e3d642d940f1bd0d1ad676dfcd0e0",
+      "object": "objects/bf0784e97043b53fb2af078cb5ae3e97368e3d642d940f1bd0d1ad676dfcd0e0.gz",
+      "captured_at": "2026-11-05T15:47:56.320689+00:00",
       "size_bytes": 5537
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285578643831/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181908487&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285578643831/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181908487&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "a0cadd72b732fb95aebea5f2e67098293a91fa990e1de83c3975c631341dc54c",
-      "object": "objects/a0cadd72b732fb95aebea5f2e67098293a91fa990e1de83c3975c631341dc54c.gz",
-      "captured_at": "2026-11-04T15:44:25.634192+00:00",
-      "size_bytes": 3546
+      "sha256": "200a76026c7bb713820e53402fa9cc0a28a1aff901db72c3bf9f962d722e6d42",
+      "object": "objects/200a76026c7bb713820e53402fa9cc0a28a1aff901db72c3bf9f962d722e6d42.gz",
+      "captured_at": "2026-11-05T15:47:56.640124+00:00",
+      "size_bytes": 3547
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285607341530/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285607341530/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "f6fe567a848adf26ba802c734f2919514b850e5fa5b66d30d2377af6b4eb3da2",
-      "object": "objects/f6fe567a848adf26ba802c734f2919514b850e5fa5b66d30d2377af6b4eb3da2.gz",
-      "captured_at": "2026-11-04T15:44:25.967604+00:00",
-      "size_bytes": 3976
+      "sha256": "39aa184d310adf4b19f1682637c5523e8edd8f3e92165e199c9f69723d020dac",
+      "object": "objects/39aa184d310adf4b19f1682637c5523e8edd8f3e92165e199c9f69723d020dac.gz",
+      "captured_at": "2026-11-05T15:47:56.970708+00:00",
+      "size_bytes": 3977
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285607403309/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285607403309/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "f9146e2878dfaf286a8bcd6dfe0cec7ed2ab4d8e4358a8ccbe89b8b906914bf2",
-      "object": "objects/f9146e2878dfaf286a8bcd6dfe0cec7ed2ab4d8e4358a8ccbe89b8b906914bf2.gz",
-      "captured_at": "2026-11-04T15:44:26.299040+00:00",
-      "size_bytes": 4001
+      "sha256": "53b347c813e4110aa2271b9b3225427a2f605bb9227ee64cd8a319b032de15e8",
+      "object": "objects/53b347c813e4110aa2271b9b3225427a2f605bb9227ee64cd8a319b032de15e8.gz",
+      "captured_at": "2026-11-05T15:47:57.282383+00:00",
+      "size_bytes": 4002
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285611061964/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285611061964/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "0b4fbb1dd44bc623acf55e95e2b8b1a503305cdbba34b609be9a997bac9bda70",
-      "object": "objects/0b4fbb1dd44bc623acf55e95e2b8b1a503305cdbba34b609be9a997bac9bda70.gz",
-      "captured_at": "2026-11-04T15:44:26.642998+00:00",
-      "size_bytes": 4318
+      "sha256": "2ebc6fb7c9b34e3514641bf1bed454d76c08d718af6208f1b26c008dffc9b420",
+      "object": "objects/2ebc6fb7c9b34e3514641bf1bed454d76c08d718af6208f1b26c008dffc9b420.gz",
+      "captured_at": "2026-11-05T15:47:57.603644+00:00",
+      "size_bytes": 4319
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285616844887/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285616844887/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "40dc36eb2790ff5510ec332be543d79f060b0b24553fd6437f86703c9a4d5ff1",
-      "object": "objects/40dc36eb2790ff5510ec332be543d79f060b0b24553fd6437f86703c9a4d5ff1.gz",
-      "captured_at": "2026-11-04T15:44:26.982074+00:00",
+      "sha256": "42fa9df5d17dfb8b02a329360fdcb93c4e5c1c3ad9c496ce4da742fa3a9eda60",
+      "object": "objects/42fa9df5d17dfb8b02a329360fdcb93c4e5c1c3ad9c496ce4da742fa3a9eda60.gz",
+      "captured_at": "2026-11-05T15:47:57.931028+00:00",
       "size_bytes": 4660
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285616845877/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285616845877/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "c1b520d794e42d867bb9835ab493eab201be6b44e0f71ece061d9d4066b771dd",
-      "object": "objects/c1b520d794e42d867bb9835ab493eab201be6b44e0f71ece061d9d4066b771dd.gz",
-      "captured_at": "2026-11-04T15:44:27.347407+00:00",
+      "sha256": "f0a119245a69972ebfa6e584102f1661470fc0569c479d963c5562cedd958f2d",
+      "object": "objects/f0a119245a69972ebfa6e584102f1661470fc0569c479d963c5562cedd958f2d.gz",
+      "captured_at": "2026-11-05T15:47:58.274978+00:00",
       "size_bytes": 6682
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285616857623/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285616857623/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "4435ae60ef7962c8cc5bee8cd5e37ffdebfb617d63b301f1ef8b2d882dc73e3d",
-      "object": "objects/4435ae60ef7962c8cc5bee8cd5e37ffdebfb617d63b301f1ef8b2d882dc73e3d.gz",
-      "captured_at": "2026-11-04T15:44:27.725326+00:00",
+      "sha256": "b6864bf76a9dbda9aa7e8c2d8b567fdee81de014029bc9ba13867edf8bf9d071",
+      "object": "objects/b6864bf76a9dbda9aa7e8c2d8b567fdee81de014029bc9ba13867edf8bf9d071.gz",
+      "captured_at": "2026-11-05T15:47:58.624843+00:00",
       "size_bytes": 7672
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285623010760/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200365845&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285623010760/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200365845&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "ee07e34c7041891c578ee646ba7769452b0b27f40840518773c9690fba6a55ed",
-      "object": "objects/ee07e34c7041891c578ee646ba7769452b0b27f40840518773c9690fba6a55ed.gz",
-      "captured_at": "2026-11-04T15:44:28.094935+00:00",
+      "sha256": "a8a8a3318a5410e946acc9884b044c9a846d9c76f04ecc559741de58a0bf1097",
+      "object": "objects/a8a8a3318a5410e946acc9884b044c9a846d9c76f04ecc559741de58a0bf1097.gz",
+      "captured_at": "2026-11-05T15:47:58.975001+00:00",
       "size_bytes": 6794
     },
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285681206988/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181908487&portal=JCYL_FuncionPublica%3AEmpleoPublico": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285681206988/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181908487&portal=JCYL_FuncionPublica%3AEmpleoPublico",
       "role": "commission.page",
-      "sha256": "1b45c101cf36758e2570c6dd7e57f315241167f3ef3776de6eebff53d177d898",
-      "object": "objects/1b45c101cf36758e2570c6dd7e57f315241167f3ef3776de6eebff53d177d898.gz",
-      "captured_at": "2026-11-04T15:44:28.437934+00:00",
+      "sha256": "46de86545a03d1e55fdfde5e81b6a0e346b777be6c63c428a89ce51692fe3976",
+      "object": "objects/46de86545a03d1e55fdfde5e81b6a0e346b777be6c63c428a89ce51692fe3976.gz",
+      "captured_at": "2026-11-05T15:47:59.319736+00:00",
       "size_bytes": 3807
     },
     "https://empleopublico.jcyl.es/web/jcyl/binarios/110/1018/2%2024588%20ANUNCIO%20para%20Gestor.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true": {
@@ -1196,10 +1196,10 @@
     "https://bocyl.jcyl.es/": {
       "url": "https://bocyl.jcyl.es/",
       "role": "bocyl.portal",
-      "sha256": "46660684bff5a0d5caed3c76c1abc427e09393f4463f78534f6698dd160d3227",
-      "object": "objects/46660684bff5a0d5caed3c76c1abc427e09393f4463f78534f6698dd160d3227.gz",
-      "captured_at": "2026-11-04T15:45:43.068782+00:00",
-      "size_bytes": 16216
+      "sha256": "fb118bf0b6a92a37c37f3fa5ff2befc2d5a09c40f875ccddb5648f4ab4a08663",
+      "object": "objects/fb118bf0b6a92a37c37f3fa5ff2befc2d5a09c40f875ccddb5648f4ab4a08663.gz",
+      "captured_at": "2026-11-05T15:49:32.336592+00:00",
+      "size_bytes": 16292
     },
     "https://bocyl.jcyl.es/boletin.do?fechaBoletin=21/10/2026": {
       "url": "https://bocyl.jcyl.es/boletin.do?fechaBoletin=21/10/2026",
@@ -4228,10 +4228,10 @@
     "https://bocyl.jcyl.es/boletin.do?fechaBoletin=04/11/2026": {
       "url": "https://bocyl.jcyl.es/boletin.do?fechaBoletin=04/11/2026",
       "role": "bocyl.summary",
-      "sha256": "b42549e3da706d5299ee370b7c83580b4a71ef93f6326919e21087328d3ac862",
-      "object": "objects/b42549e3da706d5299ee370b7c83580b4a71ef93f6326919e21087328d3ac862.gz",
-      "captured_at": "2026-11-04T15:45:43.558556+00:00",
-      "size_bytes": 86716
+      "sha256": "7cba906ede6e95a7a5a1257075e7830805b48f0369c5d1472b4ce062c86b48db",
+      "object": "objects/7cba906ede6e95a7a5a1257075e7830805b48f0369c5d1472b4ce062c86b48db.gz",
+      "captured_at": "2026-11-05T15:49:33.199901+00:00",
+      "size_bytes": 86849
     },
     "https://bocyl.jcyl.es/html/2026/11/04/html/BOCYL-D-04112026-213-1.do": {
       "url": "https://bocyl.jcyl.es/html/2026/11/04/html/BOCYL-D-04112026-213-1.do",
@@ -4340,10 +4340,34 @@
     "https://bocyl.jcyl.es/boletines/2026/11/04/pdf/BOCYL-D-04112026-213-7.pdf": {
       "url": "https://bocyl.jcyl.es/boletines/2026/11/04/pdf/BOCYL-D-04112026-213-7.pdf",
       "role": "bocyl.notice.pdf",
-      "sha256": "a4081a698b63625adfe848a53ee5ed2183765b0d2877073ac67af611424431e6",
-      "object": "objects/a4081a698b63625adfe848a53ee5ed2183765b0d2877073ac67af611424431e6.gz",
-      "captured_at": "2026-11-04T15:45:57.186051+00:00",
+      "sha256": "12632ad9799e0fc92137b015feea9c9f951b8d1780434353381f742f21a8afcd",
+      "object": "objects/12632ad9799e0fc92137b015feea9c9f951b8d1780434353381f742f21a8afcd.gz",
+      "captured_at": "2026-11-05T15:49:41.075689+00:00",
       "size_bytes": 798721
+    },
+    "https://empleopublico.jcyl.es/web/jcyl/binarios/17/603/2_768494_anuncio_para_gestor.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true": {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/17/603/2_768494_anuncio_para_gestor.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "sha256": "fdf0ec9fe0aa4d1f199d30befa88f785d5917d80ca5f87e9f225cb656a16e285",
+      "object": "objects/fdf0ec9fe0aa4d1f199d30befa88f785d5917d80ca5f87e9f225cb656a16e285.gz",
+      "captured_at": "2026-11-05T15:49:23.917396+00:00",
+      "size_bytes": 109314
+    },
+    "https://empleopublico.jcyl.es/web/jcyl/binarios/597/445/2%20768212%20ANUNCIO%20para%20Gestor.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true": {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/597/445/2%20768212%20ANUNCIO%20para%20Gestor.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "sha256": "f762294d6d4c38a35757e2f3e2fb75b2fd3a7f2f50df6cdd1a6e8d9aff3540f7",
+      "object": "objects/f762294d6d4c38a35757e2f3e2fb75b2fd3a7f2f50df6cdd1a6e8d9aff3540f7.gz",
+      "captured_at": "2026-11-05T15:49:24.360908+00:00",
+      "size_bytes": 103085
+    },
+    "https://bocyl.jcyl.es/boletin.do?fechaBoletin=05/11/2026": {
+      "url": "https://bocyl.jcyl.es/boletin.do?fechaBoletin=05/11/2026",
+      "role": "bocyl.summary",
+      "sha256": "bcb14078f8db9617ed3cfad7c077cc51f37cc018b76cc574b011fe7ab93e69d1",
+      "object": "objects/bcb14078f8db9617ed3cfad7c077cc51f37cc018b76cc574b011fe7ab93e69d1.gz",
+      "captured_at": "2026-11-05T15:49:32.709098+00:00",
+      "size_bytes": 59389
     }
   },
   "versions": {
@@ -4613,6 +4637,14 @@
         "object": "objects/5f670bb756fcec53160800928a2882b02e0cebbe2b08ccd960318d92b455eea7.gz",
         "captured_at": "2026-11-04T15:44:09.837940+00:00",
         "size_bytes": 79726
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-servicio-consejeria.html",
+        "role": "commission.page",
+        "sha256": "f0fad974d10839eea5cee31da5e3f7da2cac35947c72c1f8cf2a54724ba67499",
+        "object": "objects/f0fad974d10839eea5cee31da5e3f7da2cac35947c72c1f8cf2a54724ba67499.gz",
+        "captured_at": "2026-11-05T15:47:41.991882+00:00",
+        "size_bytes": 81173
       }
     ],
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-servicio-gerencia-regional.html": [
@@ -5207,6 +5239,14 @@
         "object": "objects/02f52f33497db4c8327dddb1dbe4c98ebd005f114e0dc43ca5931ce65e58999a.gz",
         "captured_at": "2026-11-04T15:44:12.797797+00:00",
         "size_bytes": 65634
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-agricultura-ganaderia-desarrollo.html",
+        "role": "commission.page",
+        "sha256": "4294c4cc73fd73e800f9135763e19f97b29d8b3ffbb05411d8c5f3ac64b1b72a",
+        "object": "objects/4294c4cc73fd73e800f9135763e19f97b29d8b3ffbb05411d8c5f3ac64b1b72a.gz",
+        "captured_at": "2026-11-05T15:47:44.240330+00:00",
+        "size_bytes": 69321
       }
     ],
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-cultura-turismo-deporte.html": [
@@ -5329,6 +5369,14 @@
         "object": "objects/295fa3af325fa8da77d8ebca92dc53e0cf3685e0d6fe2cc0e0b2f4a29e87dc13.gz",
         "captured_at": "2026-11-04T15:44:13.345188+00:00",
         "size_bytes": 110932
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-cultura-turismo-deporte.html",
+        "role": "commission.page",
+        "sha256": "e9d16f7a5ddd73e7a8f42049a1a74d78e1b3b331f34b0473732e9de1363d6959",
+        "object": "objects/e9d16f7a5ddd73e7a8f42049a1a74d78e1b3b331f34b0473732e9de1363d6959.gz",
+        "captured_at": "2026-11-05T15:47:44.768971+00:00",
+        "size_bytes": 111480
       }
     ],
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-economia-hacienda.html": [
@@ -5451,6 +5499,14 @@
         "object": "objects/cff9951666fdbc795e5f55079b159887dbb5f78b0915205c747bfb027f595384.gz",
         "captured_at": "2026-11-04T15:44:13.990509+00:00",
         "size_bytes": 76279
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-economia-hacienda.html",
+        "role": "commission.page",
+        "sha256": "dcca43cd8337203d426b6fd003a20f5f7ef2c2f8c5336e20c18bb3b581537633",
+        "object": "objects/dcca43cd8337203d426b6fd003a20f5f7ef2c2f8c5336e20c18bb3b581537633.gz",
+        "captured_at": "2026-11-05T15:47:45.276845+00:00",
+        "size_bytes": 80187
       }
     ],
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-educacion.html": [
@@ -5581,6 +5637,14 @@
         "object": "objects/00d789484949689e9bcd11da85534947a46fb139db4269059c020ac5939dee74.gz",
         "captured_at": "2026-11-04T15:44:14.430279+00:00",
         "size_bytes": 50096
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-educacion.html",
+        "role": "commission.page",
+        "sha256": "a39ac95b8cfe545c9d0042b428b90ed957246d2686a37454b05fa9c4d2b953f5",
+        "object": "objects/a39ac95b8cfe545c9d0042b428b90ed957246d2686a37454b05fa9c4d2b953f5.gz",
+        "captured_at": "2026-11-05T15:47:45.694099+00:00",
+        "size_bytes": 53254
       }
     ],
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-familia-igualdad-oportunidades.html": [
@@ -6159,6 +6223,14 @@
         "object": "objects/0ea994b34bb03d3993d8ff45c7b0116aa1fc2df37f8e6caaff8d6acf855b36e2.gz",
         "captured_at": "2026-11-04T15:44:16.672102+00:00",
         "size_bytes": 48746
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-presidencia.html",
+        "role": "commission.page",
+        "sha256": "2e67d09941152e4d2d1523449142f6315801e94fc6689aea758ff482a206f591",
+        "object": "objects/2e67d09941152e4d2d1523449142f6315801e94fc6689aea758ff482a206f591.gz",
+        "captured_at": "2026-11-05T15:47:47.975864+00:00",
+        "size_bytes": 49784
       }
     ],
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-sanidad.html": [
@@ -6649,6 +6721,14 @@
         "object": "objects/d4119938de273d3fc7e8822a4dc4ddc506b6ed13284a5ed34dd599c5a3a76082.gz",
         "captured_at": "2026-11-04T15:44:21.114242+00:00",
         "size_bytes": 6397
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285220239075/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "b7431befd5704b7a2fb9740fe3e391d9aec1659df0d5026d44cb6da6eeaa3364",
+        "object": "objects/b7431befd5704b7a2fb9740fe3e391d9aec1659df0d5026d44cb6da6eeaa3364.gz",
+        "captured_at": "2026-11-05T15:47:52.377123+00:00",
+        "size_bytes": 6397
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285237728970/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200365845&portal=JCYL_FuncionPublica%3AEmpleoPublico": [
@@ -6914,6 +6994,14 @@
         "sha256": "f60aff55879eb153e1fc945f224c5625a17bf64c6075b04012a6dfdd4ea80bf3",
         "object": "objects/f60aff55879eb153e1fc945f224c5625a17bf64c6075b04012a6dfdd4ea80bf3.gz",
         "captured_at": "2026-11-04T15:44:21.498844+00:00",
+        "size_bytes": 8091
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285237728970/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200365845&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "691eec61a325ad5923c06225bf14687e8bdd901ec2a679eb124af253c342ce32",
+        "object": "objects/691eec61a325ad5923c06225bf14687e8bdd901ec2a679eb124af253c342ce32.gz",
+        "captured_at": "2026-11-05T15:47:52.745808+00:00",
         "size_bytes": 8091
       }
     ],
@@ -7181,6 +7269,14 @@
         "object": "objects/1e8939eb03fd6eff15b09fe40538d89b42b46d1d2567aa6d611565ebb49fdaad.gz",
         "captured_at": "2026-11-04T15:44:21.829354+00:00",
         "size_bytes": 4141
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285253533815/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "10a0f46c73fb1403aae507460661c34fff1900eba8ab0a1d033718b40969b458",
+        "object": "objects/10a0f46c73fb1403aae507460661c34fff1900eba8ab0a1d033718b40969b458.gz",
+        "captured_at": "2026-11-05T15:47:53.061877+00:00",
+        "size_bytes": 4142
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285361211737/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico": [
@@ -7447,6 +7543,14 @@
         "object": "objects/f9d15edff81c9f1c4069fd769a01080b9c86fa76340d5e35aa04af2f60416214.gz",
         "captured_at": "2026-11-04T15:44:22.163006+00:00",
         "size_bytes": 3483
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285361211737/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "37fead9d9e8c7991143356c3568cf515a92bdf2d9d0c01a81f56ec6e31b5dba9",
+        "object": "objects/37fead9d9e8c7991143356c3568cf515a92bdf2d9d0c01a81f56ec6e31b5dba9.gz",
+        "captured_at": "2026-11-05T15:47:53.375863+00:00",
+        "size_bytes": 3484
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285361216030/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico": [
@@ -7712,6 +7816,14 @@
         "sha256": "f9dadce4a1bcad807e78f5f8dc82dad4ef05909b4635229a3af9a943fc083b2b",
         "object": "objects/f9dadce4a1bcad807e78f5f8dc82dad4ef05909b4635229a3af9a943fc083b2b.gz",
         "captured_at": "2026-11-04T15:44:22.489188+00:00",
+        "size_bytes": 4079
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285361216030/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "d4f90739426c67354fef4aaf0adfc5ee9beb23dc1a26d16b19b28297179bddac",
+        "object": "objects/d4f90739426c67354fef4aaf0adfc5ee9beb23dc1a26d16b19b28297179bddac.gz",
+        "captured_at": "2026-11-05T15:47:53.741869+00:00",
         "size_bytes": 4079
       }
     ],
@@ -7979,6 +8091,14 @@
         "object": "objects/fdd057ad17c5f80381f4704fdd356e343911147b825b171daeb738dde6de3b50.gz",
         "captured_at": "2026-11-04T15:44:22.855779+00:00",
         "size_bytes": 6105
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285361220360/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "aac5cb5ce79b7606dab31e04c77a78dcda11a4d23a19d7796422fca9d34d33a5",
+        "object": "objects/aac5cb5ce79b7606dab31e04c77a78dcda11a4d23a19d7796422fca9d34d33a5.gz",
+        "captured_at": "2026-11-05T15:47:54.091447+00:00",
+        "size_bytes": 6105
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285375938380/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico": [
@@ -8244,6 +8364,14 @@
         "sha256": "4b8499f36a47444225c60d72927b409a445a765d139d7048858c9d1df4e10292",
         "object": "objects/4b8499f36a47444225c60d72927b409a445a765d139d7048858c9d1df4e10292.gz",
         "captured_at": "2026-11-04T15:44:23.226356+00:00",
+        "size_bytes": 4472
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285375938380/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "e80f6d098435ac057b17f49379895e2851b513f6924451ba947f00f75644f8a5",
+        "object": "objects/e80f6d098435ac057b17f49379895e2851b513f6924451ba947f00f75644f8a5.gz",
+        "captured_at": "2026-11-05T15:47:54.413715+00:00",
         "size_bytes": 4472
       }
     ],
@@ -8511,6 +8639,14 @@
         "object": "objects/4a88dc13d620527b5fffdb9e9fadf28089b92026cb2515657c085aa22aae89b0.gz",
         "captured_at": "2026-11-04T15:44:23.576467+00:00",
         "size_bytes": 4183
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285394238438/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "c3d883c6a06abed71fbad967be8efe301f4088dbe2a9e128a84d1f00f0e677eb",
+        "object": "objects/c3d883c6a06abed71fbad967be8efe301f4088dbe2a9e128a84d1f00f0e677eb.gz",
+        "captured_at": "2026-11-05T15:47:54.731955+00:00",
+        "size_bytes": 4183
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285474722427/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico": [
@@ -8776,6 +8912,14 @@
         "sha256": "3857cb49505eb442d3d0bd97a6e2dd05915ce6c13df78488838766d9d7cace8d",
         "object": "objects/3857cb49505eb442d3d0bd97a6e2dd05915ce6c13df78488838766d9d7cace8d.gz",
         "captured_at": "2026-11-04T15:44:23.912594+00:00",
+        "size_bytes": 4072
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285474722427/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "fe2b45c35aff99cd37d2b77581066e729ff7724f793a3bde1d9cc5741762b833",
+        "object": "objects/fe2b45c35aff99cd37d2b77581066e729ff7724f793a3bde1d9cc5741762b833.gz",
+        "captured_at": "2026-11-05T15:47:55.052141+00:00",
         "size_bytes": 4072
       }
     ],
@@ -9043,6 +9187,14 @@
         "object": "objects/46a86df4665cdd0871fb666e65a8a47dcb51726d1f67aef21e6f6bdfb6b9a7da.gz",
         "captured_at": "2026-11-04T15:44:24.256493+00:00",
         "size_bytes": 4753
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285480287622/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "534f3da5bed0d05a5aebc9794e7151e61da3ba3bb12896f03651cfbee799ba5b",
+        "object": "objects/534f3da5bed0d05a5aebc9794e7151e61da3ba3bb12896f03651cfbee799ba5b.gz",
+        "captured_at": "2026-11-05T15:47:55.367358+00:00",
+        "size_bytes": 4753
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285480383625/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico": [
@@ -9308,6 +9460,14 @@
         "sha256": "aaa700d08432d3ac5a8c8b8b6f7c4e1fc655e9d4e088456849405b58100e2d8e",
         "object": "objects/aaa700d08432d3ac5a8c8b8b6f7c4e1fc655e9d4e088456849405b58100e2d8e.gz",
         "captured_at": "2026-11-04T15:44:24.591456+00:00",
+        "size_bytes": 3653
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285480383625/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "7eed41bf82df234295a8e23f534123a0ce10c4e0a617e338958a79de3701c06f",
+        "object": "objects/7eed41bf82df234295a8e23f534123a0ce10c4e0a617e338958a79de3701c06f.gz",
+        "captured_at": "2026-11-05T15:47:55.680747+00:00",
         "size_bytes": 3653
       }
     ],
@@ -9575,6 +9735,14 @@
         "object": "objects/7a78055974fcbb6dcab85e8c45b1e5cc25310eb482b9156bf699723424831fa7.gz",
         "captured_at": "2026-11-04T15:44:24.938121+00:00",
         "size_bytes": 3812
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285482357360/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200365845&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "0cbebe8fb7ec5d82dfe6d8940c905750dfbab940b30f737fd9c7e8ec486bc822",
+        "object": "objects/0cbebe8fb7ec5d82dfe6d8940c905750dfbab940b30f737fd9c7e8ec486bc822.gz",
+        "captured_at": "2026-11-05T15:47:56.001305+00:00",
+        "size_bytes": 3812
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285513023310/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico": [
@@ -9840,6 +10008,14 @@
         "sha256": "57fdc9bc3447d9432830929717a6de37962954f54843125cea007d184e1385bc",
         "object": "objects/57fdc9bc3447d9432830929717a6de37962954f54843125cea007d184e1385bc.gz",
         "captured_at": "2026-11-04T15:44:25.301312+00:00",
+        "size_bytes": 5537
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285513023310/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "bf0784e97043b53fb2af078cb5ae3e97368e3d642d940f1bd0d1ad676dfcd0e0",
+        "object": "objects/bf0784e97043b53fb2af078cb5ae3e97368e3d642d940f1bd0d1ad676dfcd0e0.gz",
+        "captured_at": "2026-11-05T15:47:56.320689+00:00",
         "size_bytes": 5537
       }
     ],
@@ -10107,6 +10283,14 @@
         "object": "objects/a0cadd72b732fb95aebea5f2e67098293a91fa990e1de83c3975c631341dc54c.gz",
         "captured_at": "2026-11-04T15:44:25.634192+00:00",
         "size_bytes": 3546
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285578643831/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181908487&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "200a76026c7bb713820e53402fa9cc0a28a1aff901db72c3bf9f962d722e6d42",
+        "object": "objects/200a76026c7bb713820e53402fa9cc0a28a1aff901db72c3bf9f962d722e6d42.gz",
+        "captured_at": "2026-11-05T15:47:56.640124+00:00",
+        "size_bytes": 3547
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285607341530/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico": [
@@ -10373,6 +10557,14 @@
         "object": "objects/f6fe567a848adf26ba802c734f2919514b850e5fa5b66d30d2377af6b4eb3da2.gz",
         "captured_at": "2026-11-04T15:44:25.967604+00:00",
         "size_bytes": 3976
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285607341530/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "39aa184d310adf4b19f1682637c5523e8edd8f3e92165e199c9f69723d020dac",
+        "object": "objects/39aa184d310adf4b19f1682637c5523e8edd8f3e92165e199c9f69723d020dac.gz",
+        "captured_at": "2026-11-05T15:47:56.970708+00:00",
+        "size_bytes": 3977
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285607403309/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico": [
@@ -10639,6 +10831,14 @@
         "object": "objects/f9146e2878dfaf286a8bcd6dfe0cec7ed2ab4d8e4358a8ccbe89b8b906914bf2.gz",
         "captured_at": "2026-11-04T15:44:26.299040+00:00",
         "size_bytes": 4001
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285607403309/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "53b347c813e4110aa2271b9b3225427a2f605bb9227ee64cd8a319b032de15e8",
+        "object": "objects/53b347c813e4110aa2271b9b3225427a2f605bb9227ee64cd8a319b032de15e8.gz",
+        "captured_at": "2026-11-05T15:47:57.282383+00:00",
+        "size_bytes": 4002
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285611061964/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico": [
@@ -10905,6 +11105,14 @@
         "object": "objects/0b4fbb1dd44bc623acf55e95e2b8b1a503305cdbba34b609be9a997bac9bda70.gz",
         "captured_at": "2026-11-04T15:44:26.642998+00:00",
         "size_bytes": 4318
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285611061964/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "2ebc6fb7c9b34e3514641bf1bed454d76c08d718af6208f1b26c008dffc9b420",
+        "object": "objects/2ebc6fb7c9b34e3514641bf1bed454d76c08d718af6208f1b26c008dffc9b420.gz",
+        "captured_at": "2026-11-05T15:47:57.603644+00:00",
+        "size_bytes": 4319
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285616844887/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico": [
@@ -11170,6 +11378,14 @@
         "sha256": "40dc36eb2790ff5510ec332be543d79f060b0b24553fd6437f86703c9a4d5ff1",
         "object": "objects/40dc36eb2790ff5510ec332be543d79f060b0b24553fd6437f86703c9a4d5ff1.gz",
         "captured_at": "2026-11-04T15:44:26.982074+00:00",
+        "size_bytes": 4660
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285616844887/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "42fa9df5d17dfb8b02a329360fdcb93c4e5c1c3ad9c496ce4da742fa3a9eda60",
+        "object": "objects/42fa9df5d17dfb8b02a329360fdcb93c4e5c1c3ad9c496ce4da742fa3a9eda60.gz",
+        "captured_at": "2026-11-05T15:47:57.931028+00:00",
         "size_bytes": 4660
       }
     ],
@@ -11437,6 +11653,14 @@
         "object": "objects/c1b520d794e42d867bb9835ab493eab201be6b44e0f71ece061d9d4066b771dd.gz",
         "captured_at": "2026-11-04T15:44:27.347407+00:00",
         "size_bytes": 6682
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285616845877/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "f0a119245a69972ebfa6e584102f1661470fc0569c479d963c5562cedd958f2d",
+        "object": "objects/f0a119245a69972ebfa6e584102f1661470fc0569c479d963c5562cedd958f2d.gz",
+        "captured_at": "2026-11-05T15:47:58.274978+00:00",
+        "size_bytes": 6682
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285616857623/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico": [
@@ -11702,6 +11926,14 @@
         "sha256": "4435ae60ef7962c8cc5bee8cd5e37ffdebfb617d63b301f1ef8b2d882dc73e3d",
         "object": "objects/4435ae60ef7962c8cc5bee8cd5e37ffdebfb617d63b301f1ef8b2d882dc73e3d.gz",
         "captured_at": "2026-11-04T15:44:27.725326+00:00",
+        "size_bytes": 7672
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285616857623/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "b6864bf76a9dbda9aa7e8c2d8b567fdee81de014029bc9ba13867edf8bf9d071",
+        "object": "objects/b6864bf76a9dbda9aa7e8c2d8b567fdee81de014029bc9ba13867edf8bf9d071.gz",
+        "captured_at": "2026-11-05T15:47:58.624843+00:00",
         "size_bytes": 7672
       }
     ],
@@ -11969,6 +12201,14 @@
         "object": "objects/ee07e34c7041891c578ee646ba7769452b0b27f40840518773c9690fba6a55ed.gz",
         "captured_at": "2026-11-04T15:44:28.094935+00:00",
         "size_bytes": 6794
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285623010760/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200365845&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "a8a8a3318a5410e946acc9884b044c9a846d9c76f04ecc559741de58a0bf1097",
+        "object": "objects/a8a8a3318a5410e946acc9884b044c9a846d9c76f04ecc559741de58a0bf1097.gz",
+        "captured_at": "2026-11-05T15:47:58.975001+00:00",
+        "size_bytes": 6794
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285681206988/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181908487&portal=JCYL_FuncionPublica%3AEmpleoPublico": [
@@ -12234,6 +12474,14 @@
         "sha256": "1b45c101cf36758e2570c6dd7e57f315241167f3ef3776de6eebff53d177d898",
         "object": "objects/1b45c101cf36758e2570c6dd7e57f315241167f3ef3776de6eebff53d177d898.gz",
         "captured_at": "2026-11-04T15:44:28.437934+00:00",
+        "size_bytes": 3807
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285681206988/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181908487&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+        "role": "commission.page",
+        "sha256": "46de86545a03d1e55fdfde5e81b6a0e346b777be6c63c428a89ce51692fe3976",
+        "object": "objects/46de86545a03d1e55fdfde5e81b6a0e346b777be6c63c428a89ce51692fe3976.gz",
+        "captured_at": "2026-11-05T15:47:59.319736+00:00",
         "size_bytes": 3807
       }
     ],
@@ -13669,6 +13917,14 @@
         "object": "objects/46660684bff5a0d5caed3c76c1abc427e09393f4463f78534f6698dd160d3227.gz",
         "captured_at": "2026-11-04T15:45:43.068782+00:00",
         "size_bytes": 16216
+      },
+      {
+        "url": "https://bocyl.jcyl.es/",
+        "role": "bocyl.portal",
+        "sha256": "fb118bf0b6a92a37c37f3fa5ff2befc2d5a09c40f875ccddb5648f4ab4a08663",
+        "object": "objects/fb118bf0b6a92a37c37f3fa5ff2befc2d5a09c40f875ccddb5648f4ab4a08663.gz",
+        "captured_at": "2026-11-05T15:49:32.336592+00:00",
+        "size_bytes": 16292
       }
     ],
     "https://bocyl.jcyl.es/boletin.do?fechaBoletin=21/10/2026": [
@@ -19331,6 +19587,14 @@
         "object": "objects/b42549e3da706d5299ee370b7c83580b4a71ef93f6326919e21087328d3ac862.gz",
         "captured_at": "2026-11-04T15:45:43.558556+00:00",
         "size_bytes": 86716
+      },
+      {
+        "url": "https://bocyl.jcyl.es/boletin.do?fechaBoletin=04/11/2026",
+        "role": "bocyl.summary",
+        "sha256": "7cba906ede6e95a7a5a1257075e7830805b48f0369c5d1472b4ce062c86b48db",
+        "object": "objects/7cba906ede6e95a7a5a1257075e7830805b48f0369c5d1472b4ce062c86b48db.gz",
+        "captured_at": "2026-11-05T15:49:33.199901+00:00",
+        "size_bytes": 86849
       }
     ],
     "https://bocyl.jcyl.es/html/2026/11/04/html/BOCYL-D-04112026-213-1.do": [
@@ -19471,6 +19735,44 @@
         "object": "objects/a4081a698b63625adfe848a53ee5ed2183765b0d2877073ac67af611424431e6.gz",
         "captured_at": "2026-11-04T15:45:57.186051+00:00",
         "size_bytes": 798721
+      },
+      {
+        "url": "https://bocyl.jcyl.es/boletines/2026/11/04/pdf/BOCYL-D-04112026-213-7.pdf",
+        "role": "bocyl.notice.pdf",
+        "sha256": "12632ad9799e0fc92137b015feea9c9f951b8d1780434353381f742f21a8afcd",
+        "object": "objects/12632ad9799e0fc92137b015feea9c9f951b8d1780434353381f742f21a8afcd.gz",
+        "captured_at": "2026-11-05T15:49:41.075689+00:00",
+        "size_bytes": 798721
+      }
+    ],
+    "https://empleopublico.jcyl.es/web/jcyl/binarios/17/603/2_768494_anuncio_para_gestor.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true": [
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/17/603/2_768494_anuncio_para_gestor.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+        "role": "commission.document",
+        "sha256": "fdf0ec9fe0aa4d1f199d30befa88f785d5917d80ca5f87e9f225cb656a16e285",
+        "object": "objects/fdf0ec9fe0aa4d1f199d30befa88f785d5917d80ca5f87e9f225cb656a16e285.gz",
+        "captured_at": "2026-11-05T15:49:23.917396+00:00",
+        "size_bytes": 109314
+      }
+    ],
+    "https://empleopublico.jcyl.es/web/jcyl/binarios/597/445/2%20768212%20ANUNCIO%20para%20Gestor.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true": [
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/597/445/2%20768212%20ANUNCIO%20para%20Gestor.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+        "role": "commission.document",
+        "sha256": "f762294d6d4c38a35757e2f3e2fb75b2fd3a7f2f50df6cdd1a6e8d9aff3540f7",
+        "object": "objects/f762294d6d4c38a35757e2f3e2fb75b2fd3a7f2f50df6cdd1a6e8d9aff3540f7.gz",
+        "captured_at": "2026-11-05T15:49:24.360908+00:00",
+        "size_bytes": 103085
+      }
+    ],
+    "https://bocyl.jcyl.es/boletin.do?fechaBoletin=05/11/2026": [
+      {
+        "url": "https://bocyl.jcyl.es/boletin.do?fechaBoletin=05/11/2026",
+        "role": "bocyl.summary",
+        "sha256": "bcb14078f8db9617ed3cfad7c077cc51f37cc018b76cc574b011fe7ab93e69d1",
+        "object": "objects/bcb14078f8db9617ed3cfad7c077cc51f37cc018b76cc574b011fe7ab93e69d1.gz",
+        "captured_at": "2026-11-05T15:49:32.709098+00:00",
+        "size_bytes": 59389
       }
     ]
   },
@@ -19587,10 +19889,15 @@
     },
     "2026-11-04": {
       "capture_complete": true,
-      "checked_at": "2026-11-04T15:45:57.187245+00:00",
+      "checked_at": "2026-11-05T15:49:41.076983+00:00",
       "previous_url": "https://bocyl.jcyl.es/boletin.do?fechaBoletin=03/11/2026"
+    },
+    "2026-11-05": {
+      "capture_complete": true,
+      "checked_at": "2026-11-05T15:49:41.078168+00:00",
+      "previous_url": "https://bocyl.jcyl.es/boletin.do?fechaBoletin=04/11/2026"
     }
   },
-  "bocyl_cursor": "2026-11-04",
+  "bocyl_cursor": "2026-11-05",
   "source_failures": {}
 }
