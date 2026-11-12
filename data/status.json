@@ -1,8 +1,29 @@
 {
-  "checked_at": "2026-11-11T22:19:32.511697+00:00",
-  "changed_public_sources": 26,
-  "status": "COMPLETE_WITH_WARNINGS",
-  "errors": [],
+  "checked_at": "2026-11-12T16:15:39.228732+00:00",
+  "changed_public_sources": 52,
+  "status": "PARTIAL_ERROR",
+  "errors": [
+    {
+      "url": "https://bocyl.jcyl.es/boletines/2026/11/12/pdf/BOCYL-D-12112026-219-1.pdf",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://bocyl.jcyl.es/boletines/2026/11/12/pdf/BOCYL-D-12112026-219-2.pdf",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://bocyl.jcyl.es/boletines/2026/11/12/pdf/BOCYL-D-12112026-219-3.pdf",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://bocyl.jcyl.es/boletines/2026/11/12/pdf/BOCYL-D-12112026-219-4.pdf",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://bocyl.jcyl.es/boletines/2026/11/12/pdf/BOCYL-D-12112026-219-5.pdf",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    }
+  ],
   "warnings": [
     {
       "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/173/987/A%C3%91O%202026_ACT.xlsx?blobheader=application%2Fvnd.openxmlformats-officedocument.spreadsheetml.sheet&blobheadername2=Cache-Control&blobheadername3=Expires&blobheadername4=site&blobheadervalue2=no-store%2Cno-cache%2Cmust-revalidate&blobheadervalue3=0&blobheadervalue4=JCYL_Educacion&blobnocache=true",
@@ -30,8 +51,8 @@
     }
   ],
   "bocyl_capture_cursor": "2026-11-11",
-  "public_source_urls": 614,
-  "stored_compressed_bytes": 267802186,
+  "public_source_urls": 620,
+  "stored_compressed_bytes": 267976731,
   "capture_is_not_legal_validation": true,
   "paid_services_used": false
 }
