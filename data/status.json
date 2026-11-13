@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-12T16:15:39.228732+00:00",
-  "changed_public_sources": 52,
+  "checked_at": "2026-11-13T15:44:42.093636+00:00",
+  "changed_public_sources": 51,
   "status": "PARTIAL_ERROR",
   "errors": [
     {
@@ -21,6 +21,22 @@
     },
     {
       "url": "https://bocyl.jcyl.es/boletines/2026/11/12/pdf/BOCYL-D-12112026-219-5.pdf",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-1.pdf",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-2.pdf",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-4.pdf",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-8.pdf",
       "error": "256 MB evidence cap reached; capture stopped without paid storage"
     }
   ],
@@ -51,8 +67,8 @@
     }
   ],
   "bocyl_capture_cursor": "2026-11-11",
-  "public_source_urls": 620,
-  "stored_compressed_bytes": 267976731,
+  "public_source_urls": 626,
+  "stored_compressed_bytes": 268265394,
   "capture_is_not_legal_validation": true,
   "paid_services_used": false
 }
