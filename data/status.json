@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-16T17:28:50.975000+00:00",
-  "changed_public_sources": 4,
+  "checked_at": "2026-11-17T17:07:15.171506+00:00",
+  "changed_public_sources": 1,
   "status": "PARTIAL_ERROR",
   "errors": [
     {
@@ -10,6 +10,11 @@
     },
     {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-servicio-consejeria.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-servicio-gerencia-servicios.html",
       "role": "commission.page",
       "error": "256 MB evidence cap reached; capture stopped without paid storage"
     },
@@ -24,7 +29,22 @@
       "error": "256 MB evidence cap reached; capture stopped without paid storage"
     },
     {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-economia-hacienda.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-medio-ambiente-vivienda.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-movilidad-transformacion-digital.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-presidencia.html",
       "role": "commission.page",
       "error": "256 MB evidence cap reached; capture stopped without paid storage"
     },
@@ -167,6 +187,12 @@
       "role": "commission.document",
       "error": "HTTP 404; retained original is available, not a current successful fetch",
       "retained_sha256": "00e3a62535ace62150211ccecb23f67f091342dccea3be29f0bebae82cfceb9e"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/676/569/Acuerdos%20adoptados%202026,0.xlsx?blobheader=application%2Fvnd.openxmlformats-officedocument.spreadsheetml.sheet&blobheadername2=Cache-Control&blobheadername3=Expires&blobheadername4=site&blobheadervalue2=no-store%2Cno-cache%2Cmust-revalidate&blobheadervalue3=0&blobheadervalue4=JCYL_MedioAmbiente&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "4848d827b905151bfdd1414e27ec87fdb6d8e30bbac9a48b1c732f70aeb76b36"
     }
   ],
   "bocyl_capture_cursor": "2026-11-11",
