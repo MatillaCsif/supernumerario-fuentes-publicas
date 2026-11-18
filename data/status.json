@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17T17:07:15.171506+00:00",
+  "checked_at": "2026-11-18T16:46:04.917065+00:00",
   "changed_public_sources": 1,
   "status": "PARTIAL_ERROR",
   "errors": [
@@ -19,6 +19,11 @@
       "error": "256 MB evidence cap reached; capture stopped without paid storage"
     },
     {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-servicio-publico-empleo.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-agricultura-ganaderia-desarrollo.html",
       "role": "commission.page",
       "error": "256 MB evidence cap reached; capture stopped without paid storage"
@@ -30,6 +35,11 @@
     },
     {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-economia-hacienda.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-familia-igualdad-oportunidades.html",
       "role": "commission.page",
       "error": "256 MB evidence cap reached; capture stopped without paid storage"
     },
@@ -154,16 +164,17 @@
       "error": "256 MB evidence cap reached; capture stopped without paid storage"
     },
     {
-      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285681206988/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181908487&portal=JCYL_FuncionPublica%3AEmpleoPublico",
-      "role": "commission.page",
-      "error": "256 MB evidence cap reached; capture stopped without paid storage"
-    },
-    {
       "scope": "bocyl",
       "error": "256 MB evidence cap reached; capture stopped without paid storage"
     }
   ],
   "warnings": [
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285681206988/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181908487&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "e3bb4c40e01c559f2b61bb7ddd5e5a660cb83532aa174104d387aa5865f3e12e"
+    },
     {
       "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/173/987/A%C3%91O%202026_ACT.xlsx?blobheader=application%2Fvnd.openxmlformats-officedocument.spreadsheetml.sheet&blobheadername2=Cache-Control&blobheadername3=Expires&blobheadername4=site&blobheadervalue2=no-store%2Cno-cache%2Cmust-revalidate&blobheadervalue3=0&blobheadervalue4=JCYL_Educacion&blobnocache=true",
       "role": "commission.document",

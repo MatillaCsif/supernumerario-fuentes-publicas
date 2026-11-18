@@ -916,9 +916,9 @@
     "https://analisis.datosabiertos.jcyl.es/api/explore/v2.1/catalog/datasets/estadisticas-de-personal/exports/json": {
       "url": "https://analisis.datosabiertos.jcyl.es/api/explore/v2.1/catalog/datasets/estadisticas-de-personal/exports/json",
       "role": "statistics.export",
-      "sha256": "6025c9b88b30b1d7b439a9597ecec1901b1c3b97d6c0a41c67c2a597823f3f25",
-      "object": "objects/6025c9b88b30b1d7b439a9597ecec1901b1c3b97d6c0a41c67c2a597823f3f25.gz",
-      "captured_at": "2026-11-17T17:06:55.739865+00:00",
+      "sha256": "2d7b0a2a06a48ab9638175cf70c1bc128ebbaec5ab896cdda6925f81e55eb77c",
+      "object": "objects/2d7b0a2a06a48ab9638175cf70c1bc128ebbaec5ab896cdda6925f81e55eb77c.gz",
+      "captured_at": "2026-11-18T16:45:06.852649+00:00",
       "size_bytes": 15505444
     },
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/PlantillaSimpleDetalle/1285181891406/Tabla%20Combinada/1285253533815/Tabla?plantillaObligatoria=17PlantillaContenidoTablaCombinada#saltar-inicio": {
@@ -17382,6 +17382,14 @@
         "sha256": "6025c9b88b30b1d7b439a9597ecec1901b1c3b97d6c0a41c67c2a597823f3f25",
         "object": "objects/6025c9b88b30b1d7b439a9597ecec1901b1c3b97d6c0a41c67c2a597823f3f25.gz",
         "captured_at": "2026-11-17T17:06:55.739865+00:00",
+        "size_bytes": 15505444
+      },
+      {
+        "url": "https://analisis.datosabiertos.jcyl.es/api/explore/v2.1/catalog/datasets/estadisticas-de-personal/exports/json",
+        "role": "statistics.export",
+        "sha256": "2d7b0a2a06a48ab9638175cf70c1bc128ebbaec5ab896cdda6925f81e55eb77c",
+        "object": "objects/2d7b0a2a06a48ab9638175cf70c1bc128ebbaec5ab896cdda6925f81e55eb77c.gz",
+        "captured_at": "2026-11-18T16:45:06.852649+00:00",
         "size_bytes": 15505444
       }
     ],
