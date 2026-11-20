@@ -1,5 +1,5 @@
 """Public-source byte capture on standard GitHub runners. No keys or AI APIs."""
-import json,hashlib,gzip,re,time,urllib.request,urllib.error
+import json,hashlib,gzip,io,re,time,urllib.request,urllib.error
 from pathlib import Path
 from datetime import datetime,timezone
 from html.parser import HTMLParser
@@ -18,7 +18,7 @@ class Links(HTMLParser):
 class Watch:
     def __init__(self,root):
         self.root=Path(root);p=self.root/'catalog.json';self.catalog=json.loads(p.read_bytes()) if p.exists() else {'schema':1,'sources':{},'versions':{},'bocyl_days':{},'bocyl_cursor':None}
-        self.size=sum(p.stat().st_size for p in (self.root/'objects').glob('*.gz'));self.errors=[];self.warnings=[];self.changed=0
+        self.size=sum(p.stat().st_size for p in (self.root/'objects').glob('*.gz'));self.text_size=sum(p.stat().st_size for p in (self.root/'texts').glob('*.txt'));self.errors=[];self.warnings=[];self.changed=0
         self.failures=self.catalog.setdefault('source_failures',{})
     def acquire(self,url,role):
         for attempt in range(3):
@@ -35,15 +35,32 @@ class Watch:
             raw=r.read(50_000_001)
             if r.headers.get('Content-Length') and len(raw)!=int(r.headers['Content-Length']):raise ValueError('Truncated HTTP response: byte count differs')
         if len(raw)>50_000_000:raise ValueError('Original exceeds 50 MB capture bound')
-        if urlsplit(url).path.lower().endswith('.pdf') and (not raw.lstrip().startswith(b'%PDF-') or b'%%EOF' not in raw[-8192:]):raise ValueError('Invalid or truncated PDF response')
-        if role=='statistics.export' and not isinstance(json.loads(raw),list):raise ValueError('Invalid statistical export')
-        digest=hashlib.sha256(raw).hexdigest();target=self.root/'objects'/(digest+'.gz');compressed=gzip.compress(raw,mtime=0)
-        if not target.exists():
-            if self.size+len(compressed)>256*1024*1024:raise ValueError('256 MB evidence cap reached; capture stopped without paid storage')
-            target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(compressed);self.size+=len(compressed)
-        previous=self.catalog['sources'].get(url,{})
-        if previous.get('sha256')!=digest:
+        if role=='bocyl.notice.pdf':
+            if not raw.lstrip().startswith(b'%PDF-') or b'%%EOF' not in raw[-8192:]:raise ValueError('Invalid or truncated PDF response')
+            match=re.fullmatch(r'/boletines/(\d{4})/(\d{2})/(\d{2})/(?:pdf)/(BOCYL-[A-Z]-\d{8}-\d+(?:-\d+)*)\.pdf',urlsplit(url).path)
+            if not match:raise ValueError('Noncanonical official BOCYL PDF URL')
+            bid=match.group(4)
+            from pypdf import PdfReader
+            text='\\n'.join(page.extract_text() or '' for page in PdfReader(io.BytesIO(raw)).pages).strip()
+            if not text or bid not in re.sub(r'\\s+','',text):raise ValueError('BOCYL PDF text is empty or lacks its own document identifier')
+            text_raw=(text+'\\n').encode('utf-8');text_sha=hashlib.sha256(text_raw).hexdigest()
+            text_object='texts/'+hashlib.sha256(raw).hexdigest()+'.txt';text_target=self.root/text_object
+            if text_target.exists():
+                if hashlib.sha256(text_target.read_bytes()).hexdigest()!=text_sha:raise ValueError('Existing BOCYL text object changed')
+            else:
+                if self.size+self.text_size+len(text_raw)>256*1024*1024:raise ValueError('256 MB evidence cap reached; capture stopped without paid storage')
+                text_target.parent.mkdir(parents=True,exist_ok=True);text_target.write_bytes(text_raw);self.text_size+=len(text_raw)
+            entry={'url':url,'role':role,'sha256':hashlib.sha256(raw).hexdigest(),'object':None,'text_object':text_object,'text_sha256':text_sha,'text_size_bytes':len(text_raw),'captured_at':now(),'size_bytes':len(raw),'original_bytes_verified':True}
+        else:
+            if urlsplit(url).path.lower().endswith('.pdf') and (not raw.lstrip().startswith(b'%PDF-') or b'%%EOF' not in raw[-8192:]):raise ValueError('Invalid or truncated PDF response')
+            if role=='statistics.export' and not isinstance(json.loads(raw),list):raise ValueError('Invalid statistical export')
+            digest=hashlib.sha256(raw).hexdigest();target=self.root/'objects'/(digest+'.gz');compressed=gzip.compress(raw,mtime=0)
+            if not target.exists():
+                if self.size+self.text_size+len(compressed)>256*1024*1024:raise ValueError('256 MB evidence cap reached; capture stopped without paid storage')
+                target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(compressed);self.size+=len(compressed)
             entry={'url':url,'role':role,'sha256':digest,'object':'objects/'+digest+'.gz','captured_at':now(),'size_bytes':len(raw)}
+        digest=entry['sha256'];previous=self.catalog['sources'].get(url,{})
+        if previous.get('sha256')!=digest:
             self.catalog['sources'][url]=entry;self.catalog['versions'].setdefault(url,[]).append(entry);self.changed+=1
         self.failures.pop(url,None)
         return raw
@@ -105,7 +122,7 @@ class Watch:
     def finish(self):
         stamp=now();write(self.root/'catalog.json',self.catalog)
         report={'checked_at':stamp,'changed_public_sources':self.changed,'status':'PARTIAL_ERROR' if self.errors else ('COMPLETE_WITH_WARNINGS' if self.warnings else 'COMPLETE'),'errors':self.errors,'warnings':self.warnings,'bocyl_capture_cursor':self.catalog['bocyl_cursor'],
-            'public_source_urls':len(self.catalog['sources']),'stored_compressed_bytes':self.size,'capture_is_not_legal_validation':True,'paid_services_used':False}
+            'public_source_urls':len(self.catalog['sources']),'stored_compressed_bytes':self.size,'stored_text_bytes':self.text_size,'stored_total_bytes':self.size+self.text_size,'capture_is_not_legal_validation':True,'paid_services_used':False}
         write(self.root/'status.json',report);write(self.root/'reports'/(stamp[:10]+'.json'),report)
         print(json.dumps({k:v for k,v in report.items() if k!='errors'}));return 1 if self.errors else 0
 def main():
