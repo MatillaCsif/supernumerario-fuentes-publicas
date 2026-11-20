@@ -1,0 +1,17 @@
+{
+  "schema": "supernumerario.bocyl-text-migration/1.0",
+  "migrated_at": "2026-11-20T00:33:39.892Z",
+  "source_commit": "30dd3f8e5bf26a523714191f43f9beb6b022bd51",
+  "source_catalog_sha256": "183820180ca647e9c253202469667124524a81a6b53c81a0672fd8d2ad81240a",
+  "pdf_versions": 406,
+  "unique_historical_pdf_sha256": 312,
+  "validated_text_files": 312,
+  "added_text_bytes": 2449789,
+  "removed_current_tree_pdf_objects": 312,
+  "removed_compressed_bytes": 247844742,
+  "remaining_compressed_bytes": 20589384,
+  "remaining_text_bytes": 2449789,
+  "commission_sources_modified": 0,
+  "historical_git_commits_rewritten": false,
+  "notes": "Historical PDF SHA-256, official URL and extracted UTF-8 text SHA-256 are retained in data/bocyl-text-index.json and data/texts/. The compressed PDF binaries remain in earlier Git history; this migration changes only the current tree."
+}
