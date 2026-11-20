@@ -24,7 +24,9 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v7
-      - name: Instalar extractor PDF versionado\n        run: python3 -m pip install --disable-pip-version-check -r requirements.txt\n      - name: Capturar fuentes oficiales publicas
+      - name: Instalar extractor PDF versionado
+        run: python3 -m pip install --disable-pip-version-check -r requirements.txt
+      - name: Capturar fuentes oficiales publicas
         id: capture
         continue-on-error: true
         run: python3 watch.py
