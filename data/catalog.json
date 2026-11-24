@@ -44,10 +44,10 @@
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-servicio.html": {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-servicio.html",
       "role": "commission.page",
-      "sha256": "bd36cf81534483d2a05d738090912277ce8cf9bd50fb7785a0eda8e9d3830873",
-      "object": "objects/bd36cf81534483d2a05d738090912277ce8cf9bd50fb7785a0eda8e9d3830873.gz",
-      "captured_at": "2026-11-23T19:28:20.704249+00:00",
-      "size_bytes": 30214
+      "sha256": "4933b3ca7700aa847ebd80f4fe2dc4f3c2e0fb6dce15c0782593517d67084bc3",
+      "object": "objects/4933b3ca7700aa847ebd80f4fe2dc4f3c2e0fb6dce15c0782593517d67084bc3.gz",
+      "captured_at": "2026-11-24T19:05:08.315407+00:00",
+      "size_bytes": 30215
     },
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-agricultura-ganaderia-desarrollo.html": {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-agricultura-ganaderia-desarrollo.html",
@@ -92,10 +92,10 @@
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-industria-comercio-empleo.html": {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-industria-comercio-empleo.html",
       "role": "commission.page",
-      "sha256": "32a3f4a27fd94bb672d787fab10d9fe2fdc3e365512200ebb2920c0f592baf04",
-      "object": "objects/32a3f4a27fd94bb672d787fab10d9fe2fdc3e365512200ebb2920c0f592baf04.gz",
-      "captured_at": "2026-11-23T19:28:31.295034+00:00",
-      "size_bytes": 29195
+      "sha256": "d3f714e2c6fc41316784960f09d6a861bd8aaf550b89f00642918c41ff0a2b67",
+      "object": "objects/d3f714e2c6fc41316784960f09d6a861bd8aaf550b89f00642918c41ff0a2b67.gz",
+      "captured_at": "2026-11-24T19:05:23.300627+00:00",
+      "size_bytes": 29196
     },
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-medio-ambiente-vivienda.html": {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-medio-ambiente-vivienda.html",
@@ -124,10 +124,10 @@
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-sanidad.html": {
       "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-sanidad.html",
       "role": "commission.page",
-      "sha256": "4aa88bf252f2f3bcd907a61d13ede7035cf7f2d2f07c2952e0eed8b2c34fa184",
-      "object": "objects/4aa88bf252f2f3bcd907a61d13ede7035cf7f2d2f07c2952e0eed8b2c34fa184.gz",
-      "captured_at": "2026-11-23T19:28:37.736209+00:00",
-      "size_bytes": 29319
+      "sha256": "05492e220953a2a275b6e91b462d9fa00d11ebbad5912e4276a46e0b4528aa72",
+      "object": "objects/05492e220953a2a275b6e91b462d9fa00d11ebbad5912e4276a46e0b4528aa72.gz",
+      "captured_at": "2026-11-24T19:05:31.670246+00:00",
+      "size_bytes": 29320
     },
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/PlantillaSimpleDetalle/1285181891406/Tabla%20Combinada/1285253533815/Tabla?plantillaObligatoria=17PlantillaContenidoTablaCombinada": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/PlantillaSimpleDetalle/1285181891406/Tabla%20Combinada/1285253533815/Tabla?plantillaObligatoria=17PlantillaContenidoTablaCombinada",
@@ -916,9 +916,9 @@
     "https://analisis.datosabiertos.jcyl.es/api/explore/v2.1/catalog/datasets/estadisticas-de-personal/exports/json": {
       "url": "https://analisis.datosabiertos.jcyl.es/api/explore/v2.1/catalog/datasets/estadisticas-de-personal/exports/json",
       "role": "statistics.export",
-      "sha256": "2d7b0a2a06a48ab9638175cf70c1bc128ebbaec5ab896cdda6925f81e55eb77c",
-      "object": "objects/2d7b0a2a06a48ab9638175cf70c1bc128ebbaec5ab896cdda6925f81e55eb77c.gz",
-      "captured_at": "2026-11-18T16:45:06.852649+00:00",
+      "sha256": "6025c9b88b30b1d7b439a9597ecec1901b1c3b97d6c0a41c67c2a597823f3f25",
+      "object": "objects/6025c9b88b30b1d7b439a9597ecec1901b1c3b97d6c0a41c67c2a597823f3f25.gz",
+      "captured_at": "2026-11-24T19:07:28.784586+00:00",
       "size_bytes": 15505444
     },
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/PlantillaSimpleDetalle/1285181891406/Tabla%20Combinada/1285253533815/Tabla?plantillaObligatoria=17PlantillaContenidoTablaCombinada#saltar-inicio": {
@@ -3252,18 +3252,18 @@
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1277227614255/Convocatoria/1285661523292/Empleo": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1277227614255/Convocatoria/1285661523292/Empleo",
       "role": "selection.page",
-      "sha256": "7d601cd19a9622ca9a96403e0ebacae4b21484f633336dde84635796f541401a",
-      "object": "objects/7d601cd19a9622ca9a96403e0ebacae4b21484f633336dde84635796f541401a.gz",
-      "captured_at": "2026-11-23T19:29:57.208459+00:00",
-      "size_bytes": 36280
+      "sha256": "397b5c2b3c7b77f39c047092750132cc8faee53ae23fb913145b6fdd8ac79a87",
+      "object": "objects/397b5c2b3c7b77f39c047092750132cc8faee53ae23fb913145b6fdd8ac79a87.gz",
+      "captured_at": "2026-11-24T19:07:31.640246+00:00",
+      "size_bytes": 36281
     },
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1284572429695/Convocatoria/1285664972128/Empleo": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1284572429695/Convocatoria/1285664972128/Empleo",
       "role": "selection.page",
-      "sha256": "399723741b5697a39af3dc135f7aed4a9748264bc019c5c444cc2c21978f62fb",
-      "object": "objects/399723741b5697a39af3dc135f7aed4a9748264bc019c5c444cc2c21978f62fb.gz",
-      "captured_at": "2026-11-23T19:29:57.572538+00:00",
-      "size_bytes": 38117
+      "sha256": "9d50125f4d061d75d190079b2110dd03682e348b1bd0fe5a73a3c07aa8c792e0",
+      "object": "objects/9d50125f4d061d75d190079b2110dd03682e348b1bd0fe5a73a3c07aa8c792e0.gz",
+      "captured_at": "2026-11-24T19:07:32.356004+00:00",
+      "size_bytes": 38118
     },
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1280387500591/Convocatoria/1285689788852/Empleo": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1280387500591/Convocatoria/1285689788852/Empleo",
@@ -6109,6 +6109,14 @@
         "object": "objects/bd36cf81534483d2a05d738090912277ce8cf9bd50fb7785a0eda8e9d3830873.gz",
         "captured_at": "2026-11-23T19:28:20.704249+00:00",
         "size_bytes": 30214
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-servicio.html",
+        "role": "commission.page",
+        "sha256": "4933b3ca7700aa847ebd80f4fe2dc4f3c2e0fb6dce15c0782593517d67084bc3",
+        "object": "objects/4933b3ca7700aa847ebd80f4fe2dc4f3c2e0fb6dce15c0782593517d67084bc3.gz",
+        "captured_at": "2026-11-24T19:05:08.315407+00:00",
+        "size_bytes": 30215
       }
     ],
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-agricultura-ganaderia-desarrollo.html": [
@@ -7225,6 +7233,14 @@
         "object": "objects/32a3f4a27fd94bb672d787fab10d9fe2fdc3e365512200ebb2920c0f592baf04.gz",
         "captured_at": "2026-11-23T19:28:31.295034+00:00",
         "size_bytes": 29195
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-industria-comercio-empleo.html",
+        "role": "commission.page",
+        "sha256": "d3f714e2c6fc41316784960f09d6a861bd8aaf550b89f00642918c41ff0a2b67",
+        "object": "objects/d3f714e2c6fc41316784960f09d6a861bd8aaf550b89f00642918c41ff0a2b67.gz",
+        "captured_at": "2026-11-24T19:05:23.300627+00:00",
+        "size_bytes": 29196
       }
     ],
     "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-medio-ambiente-vivienda.html": [
@@ -7929,6 +7945,14 @@
         "object": "objects/4aa88bf252f2f3bcd907a61d13ede7035cf7f2d2f07c2952e0eed8b2c34fa184.gz",
         "captured_at": "2026-11-23T19:28:37.736209+00:00",
         "size_bytes": 29319
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-sanidad.html",
+        "role": "commission.page",
+        "sha256": "05492e220953a2a275b6e91b462d9fa00d11ebbad5912e4276a46e0b4528aa72",
+        "object": "objects/05492e220953a2a275b6e91b462d9fa00d11ebbad5912e4276a46e0b4528aa72.gz",
+        "captured_at": "2026-11-24T19:05:31.670246+00:00",
+        "size_bytes": 29320
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/PlantillaSimpleDetalle/1285181891406/Tabla%20Combinada/1285253533815/Tabla?plantillaObligatoria=17PlantillaContenidoTablaCombinada": [
@@ -17415,6 +17439,14 @@
         "object": "objects/2d7b0a2a06a48ab9638175cf70c1bc128ebbaec5ab896cdda6925f81e55eb77c.gz",
         "captured_at": "2026-11-18T16:45:06.852649+00:00",
         "size_bytes": 15505444
+      },
+      {
+        "url": "https://analisis.datosabiertos.jcyl.es/api/explore/v2.1/catalog/datasets/estadisticas-de-personal/exports/json",
+        "role": "statistics.export",
+        "sha256": "6025c9b88b30b1d7b439a9597ecec1901b1c3b97d6c0a41c67c2a597823f3f25",
+        "object": "objects/6025c9b88b30b1d7b439a9597ecec1901b1c3b97d6c0a41c67c2a597823f3f25.gz",
+        "captured_at": "2026-11-24T19:07:28.784586+00:00",
+        "size_bytes": 15505444
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/PlantillaSimpleDetalle/1285181891406/Tabla%20Combinada/1285253533815/Tabla?plantillaObligatoria=17PlantillaContenidoTablaCombinada#saltar-inicio": [
@@ -22055,6 +22087,14 @@
         "object": "objects/7d601cd19a9622ca9a96403e0ebacae4b21484f633336dde84635796f541401a.gz",
         "captured_at": "2026-11-23T19:29:57.208459+00:00",
         "size_bytes": 36280
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1277227614255/Convocatoria/1285661523292/Empleo",
+        "role": "selection.page",
+        "sha256": "397b5c2b3c7b77f39c047092750132cc8faee53ae23fb913145b6fdd8ac79a87",
+        "object": "objects/397b5c2b3c7b77f39c047092750132cc8faee53ae23fb913145b6fdd8ac79a87.gz",
+        "captured_at": "2026-11-24T19:07:31.640246+00:00",
+        "size_bytes": 36281
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1284572429695/Convocatoria/1285664972128/Empleo": [
@@ -22249,6 +22289,14 @@
         "object": "objects/399723741b5697a39af3dc135f7aed4a9748264bc019c5c444cc2c21978f62fb.gz",
         "captured_at": "2026-11-23T19:29:57.572538+00:00",
         "size_bytes": 38117
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1284572429695/Convocatoria/1285664972128/Empleo",
+        "role": "selection.page",
+        "sha256": "9d50125f4d061d75d190079b2110dd03682e348b1bd0fe5a73a3c07aa8c792e0",
+        "object": "objects/9d50125f4d061d75d190079b2110dd03682e348b1bd0fe5a73a3c07aa8c792e0.gz",
+        "captured_at": "2026-11-24T19:07:32.356004+00:00",
+        "size_bytes": 38118
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1280387500591/Convocatoria/1285689788852/Empleo": [
