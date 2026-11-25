@@ -916,9 +916,9 @@
     "https://analisis.datosabiertos.jcyl.es/api/explore/v2.1/catalog/datasets/estadisticas-de-personal/exports/json": {
       "url": "https://analisis.datosabiertos.jcyl.es/api/explore/v2.1/catalog/datasets/estadisticas-de-personal/exports/json",
       "role": "statistics.export",
-      "sha256": "6025c9b88b30b1d7b439a9597ecec1901b1c3b97d6c0a41c67c2a597823f3f25",
-      "object": "objects/6025c9b88b30b1d7b439a9597ecec1901b1c3b97d6c0a41c67c2a597823f3f25.gz",
-      "captured_at": "2026-11-24T19:07:28.784586+00:00",
+      "sha256": "2d7b0a2a06a48ab9638175cf70c1bc128ebbaec5ab896cdda6925f81e55eb77c",
+      "object": "objects/2d7b0a2a06a48ab9638175cf70c1bc128ebbaec5ab896cdda6925f81e55eb77c.gz",
+      "captured_at": "2026-11-25T18:13:10.908861+00:00",
       "size_bytes": 15505444
     },
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/PlantillaSimpleDetalle/1285181891406/Tabla%20Combinada/1285253533815/Tabla?plantillaObligatoria=17PlantillaContenidoTablaCombinada#saltar-inicio": {
@@ -3252,18 +3252,18 @@
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1277227614255/Convocatoria/1285661523292/Empleo": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1277227614255/Convocatoria/1285661523292/Empleo",
       "role": "selection.page",
-      "sha256": "397b5c2b3c7b77f39c047092750132cc8faee53ae23fb913145b6fdd8ac79a87",
-      "object": "objects/397b5c2b3c7b77f39c047092750132cc8faee53ae23fb913145b6fdd8ac79a87.gz",
-      "captured_at": "2026-11-24T19:07:31.640246+00:00",
-      "size_bytes": 36281
+      "sha256": "56391b70ba23efe69a25a73b3316ed78587bd7212663decc284a4aab7325db72",
+      "object": "objects/56391b70ba23efe69a25a73b3316ed78587bd7212663decc284a4aab7325db72.gz",
+      "captured_at": "2026-11-25T18:13:14.049588+00:00",
+      "size_bytes": 36280
     },
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1284572429695/Convocatoria/1285664972128/Empleo": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1284572429695/Convocatoria/1285664972128/Empleo",
       "role": "selection.page",
-      "sha256": "9d50125f4d061d75d190079b2110dd03682e348b1bd0fe5a73a3c07aa8c792e0",
-      "object": "objects/9d50125f4d061d75d190079b2110dd03682e348b1bd0fe5a73a3c07aa8c792e0.gz",
-      "captured_at": "2026-11-24T19:07:32.356004+00:00",
-      "size_bytes": 38118
+      "sha256": "17ad47f60f8ada1148a4e090d485aceb0f4301cfffad0e9d1ae0e06106f90183",
+      "object": "objects/17ad47f60f8ada1148a4e090d485aceb0f4301cfffad0e9d1ae0e06106f90183.gz",
+      "captured_at": "2026-11-25T18:13:14.779230+00:00",
+      "size_bytes": 38115
     },
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1280387500591/Convocatoria/1285689788852/Empleo": {
       "url": "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1280387500591/Convocatoria/1285689788852/Empleo",
@@ -17447,6 +17447,14 @@
         "object": "objects/6025c9b88b30b1d7b439a9597ecec1901b1c3b97d6c0a41c67c2a597823f3f25.gz",
         "captured_at": "2026-11-24T19:07:28.784586+00:00",
         "size_bytes": 15505444
+      },
+      {
+        "url": "https://analisis.datosabiertos.jcyl.es/api/explore/v2.1/catalog/datasets/estadisticas-de-personal/exports/json",
+        "role": "statistics.export",
+        "sha256": "2d7b0a2a06a48ab9638175cf70c1bc128ebbaec5ab896cdda6925f81e55eb77c",
+        "object": "objects/2d7b0a2a06a48ab9638175cf70c1bc128ebbaec5ab896cdda6925f81e55eb77c.gz",
+        "captured_at": "2026-11-25T18:13:10.908861+00:00",
+        "size_bytes": 15505444
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/PlantillaSimpleDetalle/1285181891406/Tabla%20Combinada/1285253533815/Tabla?plantillaObligatoria=17PlantillaContenidoTablaCombinada#saltar-inicio": [
@@ -22095,6 +22103,14 @@
         "object": "objects/397b5c2b3c7b77f39c047092750132cc8faee53ae23fb913145b6fdd8ac79a87.gz",
         "captured_at": "2026-11-24T19:07:31.640246+00:00",
         "size_bytes": 36281
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1277227614255/Convocatoria/1285661523292/Empleo",
+        "role": "selection.page",
+        "sha256": "56391b70ba23efe69a25a73b3316ed78587bd7212663decc284a4aab7325db72",
+        "object": "objects/56391b70ba23efe69a25a73b3316ed78587bd7212663decc284a4aab7325db72.gz",
+        "captured_at": "2026-11-25T18:13:14.049588+00:00",
+        "size_bytes": 36280
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1284572429695/Convocatoria/1285664972128/Empleo": [
@@ -22297,6 +22313,14 @@
         "object": "objects/9d50125f4d061d75d190079b2110dd03682e348b1bd0fe5a73a3c07aa8c792e0.gz",
         "captured_at": "2026-11-24T19:07:32.356004+00:00",
         "size_bytes": 38118
+      },
+      {
+        "url": "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1284572429695/Convocatoria/1285664972128/Empleo",
+        "role": "selection.page",
+        "sha256": "17ad47f60f8ada1148a4e090d485aceb0f4301cfffad0e9d1ae0e06106f90183",
+        "object": "objects/17ad47f60f8ada1148a4e090d485aceb0f4301cfffad0e9d1ae0e06106f90183.gz",
+        "captured_at": "2026-11-25T18:13:14.779230+00:00",
+        "size_bytes": 38115
       }
     ],
     "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1280387500591/Convocatoria/1285689788852/Empleo": [
