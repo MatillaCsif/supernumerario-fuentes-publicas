@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-25T18:13:26.071629+00:00",
-  "changed_public_sources": 3,
+  "checked_at": "2026-11-26T17:55:22.148906+00:00",
+  "changed_public_sources": 2,
   "status": "PARTIAL_ERROR",
   "errors": [
     {
@@ -260,6 +260,12 @@
       "role": "commission.document",
       "error": "HTTP 404; retained original is available, not a current successful fetch",
       "retained_sha256": "7b727e1c1eade4aa6b102f102e869a2c9af7c4a5da6702e63e34bd90255483af"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/551/862/Adjudicaciones%202025%20(3%20de%20marzo).pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "88c0a820fc19716162a3769fe218e001962ce2a8929261399401e33f93a3cba8"
     },
     {
       "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/570/224/Secretario%20de%20Alto%20Cargo%20T2%20Instituto%20Juventud%20VA.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
