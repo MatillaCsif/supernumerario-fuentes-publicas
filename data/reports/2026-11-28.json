@@ -1,0 +1,342 @@
+{
+  "checked_at": "2026-11-28T16:25:06.362355+00:00",
+  "changed_public_sources": 1,
+  "status": "PARTIAL_ERROR",
+  "errors": [
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-consejeria.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-servicio-consejeria.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-servicio-gerencia-regional.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-servicio-gerencia-servicios.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/comisiones-servicio-publico-empleo.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-agricultura-ganaderia-desarrollo.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-cultura-turismo-deporte.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-economia-hacienda.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-educacion.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-familia-igualdad-oportunidades.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-medio-ambiente-vivienda.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-movilidad-transformacion-digital.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/es/servicios-para-empleado/consejeria-presidencia.html",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285220239075/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285237728970/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200365845&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285253533815/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285361211737/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285361216030/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285361220360/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285375938380/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285394238438/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285474722427/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285480287622/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285480383625/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285482357360/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200365845&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285513023310/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285578643831/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181908487&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285607341530/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181891406&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285607403309/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200371149&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285611061964/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181909795&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285616844887/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285616845877/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285616857623/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181897955&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285623010760/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285200365845&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1277227614255/Convocatoria/1285519739316/Empleo",
+      "role": "selection.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/EmpleoPublico/es/Plantilla100Detalle/1280387500591/Convocatoria/1285689788852/Empleo",
+      "role": "selection.page",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    },
+    {
+      "scope": "bocyl",
+      "error": "256 MB evidence cap reached; capture stopped without paid storage"
+    }
+  ],
+  "warnings": [
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/_/es/Comun17/Contenido/Tabla/SEDescargarTablaCombinada17/1285681206988/_/_/_?asm=jcyl&esDescargaExcel=false&paginaID=1285181908487&portal=JCYL_FuncionPublica%3AEmpleoPublico",
+      "role": "commission.page",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "e3bb4c40e01c559f2b61bb7ddd5e5a660cb83532aa174104d387aa5865f3e12e"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/148/136/AUXILIAR%20SECRETARIA%20GENERAL%20VALLADOLID%2061240.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "43e5c40ffa3e5aec24e0aa63f03ce612a13c108c2c531682b304a7f8aa54bbec"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/173/987/A%C3%91O%202026_ACT.xlsx?blobheader=application%2Fvnd.openxmlformats-officedocument.spreadsheetml.sheet&blobheadername2=Cache-Control&blobheadername3=Expires&blobheadername4=site&blobheadervalue2=no-store%2Cno-cache%2Cmust-revalidate&blobheadervalue3=0&blobheadervalue4=JCYL_Educacion&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "2111c973e05c2bf1567c57cfb95c25d3ea48af90c0607f5876a85753a8ac23b0"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/177/267/ano_2026_act.xlsx?blobheader=application%2Fvnd.openxmlformats-officedocument.spreadsheetml.sheet&blobheadername2=Cache-Control&blobheadername3=Expires&blobheadername4=site&blobheadervalue2=no-store%2Cno-cache%2Cmust-revalidate&blobheadervalue3=0&blobheadervalue4=JCYL_Educacion&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "9aae8dfc370699d860f308bb55dab70215dd75f396fed43e0048caff398d55c3"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/181/777/adjudicaciones_2026_13_de_octubre_metadata.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "7bb0c2c23b6d5789d971f314e3ff5a856b9811033efd708dbbe054281662bd6f"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/314/845/GESTOR%20ADMINISTRATIVO%20TIPO%202%20INSTITUTO%20DE%20LA%20JUVENTUD%20VALLADOLID%20(1)%2051311.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "b2df0a447d852e0fa9b68d087fba0f886ba514897a842b254a5a13b944f0462a"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/328/553/GESTOR%20ADMINISTRATIVO%20TIPO%202%20SEGOVIA,0.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "982c9aabacd1bad93af686fd0d73c692d5abcabfdc0808aa949cbf5e06c0508c"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/38/38/GESTOR%20ADMINISTRATIVO%20TIPO%202%20INSTITUTO%20DE%20LA%20JUVENTUD%20VALLADOLID%20(4)%20%2030105.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "b31441e8d70b62ac189cfa2875594d9313a3821c44a439cba1e335af638e4f15"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/407/611/GESTOR%20SERVICIO%20ASUNTOS%20ECON%C3%93MICOS%20T1%20SECRETARIA%20GENERAL%20VA.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "cdd4ad66f985b8a3adc84d503acfe6b439c161ab3d2d85dac0aaeb0dabb4c25e"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/42/287/T%C3%89CNICO%20DE%20ADMINISTRACI%C3%92N%20GENERAL%20T1%20768531%20VA.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "0a1249d735e09770f13cddd1961018f4e5420758707299447bb2009387d17c5b"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/496/346/AUXILIAR%20TIPO1%20SECRETARIA%20GENERAL%20VALLADOLID%2061240.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "8b89365b8d6b40ecd5e70985546da37a595719af25453f7479b355fcbfb24f30"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/498/655/SUBDIRECTOR%20CENTRO%20SERVICIOS%20SOCIALES%20Los%20Manzanos%20538321%20VALLADOLID.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "7b727e1c1eade4aa6b102f102e869a2c9af7c4a5da6702e63e34bd90255483af"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/551/862/Adjudicaciones%202025%20(3%20de%20marzo).pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "88c0a820fc19716162a3769fe218e001962ce2a8929261399401e33f93a3cba8"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/570/224/Secretario%20de%20Alto%20Cargo%20T2%20Instituto%20Juventud%20VA.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "05a3e413bb5425026f82cdf3929d5b263e94fb3015975c6f1a7c1c37291d7193"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/576/880/A%C3%B1o%202026.xlsx?blobheader=application%2Fvnd.openxmlformats-officedocument.spreadsheetml.sheet&blobheadername2=Cache-Control&blobheadername3=Expires&blobheadername4=site&blobheadervalue2=no-store%2Cno-cache%2Cmust-revalidate&blobheadervalue3=0&blobheadervalue4=JCYL_Fomento&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "00e3a62535ace62150211ccecb23f67f091342dccea3be29f0bebae82cfceb9e"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/580/154/GESTOR%20ADMINISTRATIVO%20TIPO%202%20INSTITUTO%20DE%20LA%20JUVENTUD%20VALLADOLID%20(3)%20%2030115.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "e1a4cfaf45a91ffe2493134f4f41893ed0854179c9657fd234a1bff6bc245f2a"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/6/584/DIRECTOR%20RESIDENCIA%20JUVENIL.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "a7a426a99d82601c5ed7387b23417b97cad21a30a83138a80ac6eab70e073420"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/676/569/Acuerdos%20adoptados%202026,0.xlsx?blobheader=application%2Fvnd.openxmlformats-officedocument.spreadsheetml.sheet&blobheadername2=Cache-Control&blobheadername3=Expires&blobheadername4=site&blobheadervalue2=no-store%2Cno-cache%2Cmust-revalidate&blobheadervalue3=0&blobheadervalue4=JCYL_MedioAmbiente&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "4848d827b905151bfdd1414e27ec87fdb6d8e30bbac9a48b1c732f70aeb76b36"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/765/171/GESTOR%20ADMINISTRATIVO%20TIPO%202%20AVILA,0.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "14f6e8b45101f65c87577d5ccf994c7d9e9ed3614b75f8bbeb0d13f3a78ad494"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/79/243/GESTOR%20ADMINISTRATIVO%20T2%20INSTITUTO%20JUVENTUD%20BU,0.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "8a21d92410ac4293deff3cdbee1e53c8445008fe21d316b1d5f7be46e3575cb8"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/820/883/GESTOR%20ADMINISTRATIVO%20TIPO%202%20Juventud%2029043%20PALENCIA.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "8c4dbc796a7f3a698af3ca70df327be67da5ecae35b02c22468b39cddbc8a3b1"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/890/27/JEFE%20DE%20SECCI%C3%93N%20INSTITUTO%20DE%20LA%20JUVENTUD%20LE,0.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "4fca90afae354316b151c0b0e744722abc89ee0e319df72c05bb6901cc68ee6d"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/905/846/GESTOR%20ADMINISTRATIVO%20TIPO%202%20INSTITUTO%20DE%20LA%20JUVENTUD%20VALLADOLID%20(2)%20%2051307.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "5e0046863d22e458071b73ec1cdb97d839afc4d0b4396f54bf6607bd59694f49"
+    },
+    {
+      "url": "https://empleopublico.jcyl.es/web/jcyl/binarios/942/951/GESTOR%20ADMINISTRATIVO%20T3%20INSTITUTO%20JUVENTUD%20PA,0.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+      "role": "commission.document",
+      "error": "HTTP 404; retained original is available, not a current successful fetch",
+      "retained_sha256": "51a5a8fdaed148d35f700162550fc1321c19c01f3e2e6cc7cb10d3706d26e098"
+    }
+  ],
+  "bocyl_capture_cursor": "2026-11-11",
+  "public_source_urls": 626,
+  "stored_compressed_bytes": 268434126,
+  "capture_is_not_legal_validation": true,
+  "paid_services_used": false
+}
